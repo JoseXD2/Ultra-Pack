@@ -1,0 +1,49 @@
+{
+	"storyName": "BETA WEEK",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"worriedbambi",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"crooked house",
+			"Worried Bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"reckless",
+			"expunged",
+			[
+				40,
+				140,
+				62
+			]
+		],
+		[
+			"hell tower",
+			"Happy Bambi",
+			[
+				12,
+				181,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "helltower"
+}

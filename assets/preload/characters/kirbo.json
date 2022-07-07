@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kirbo idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				21,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "kirbo left"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "kirbo down"
+		},
+		{
+			"offsets": [
+				-6,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "kirbo up"
+		},
+		{
+			"offsets": [
+				-31,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "kirbo right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kirbo",
+	"position": [
+		110,
+		530
+	],
+	"healthicon": "kirbo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		142,
+		206
+	],
+	"camera_position": [
+		0,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

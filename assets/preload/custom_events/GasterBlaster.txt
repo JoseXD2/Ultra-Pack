@@ -1,0 +1,3 @@
+Gaster Blaster Shoot.
+
+Value 1: Health after shoot

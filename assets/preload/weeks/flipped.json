@@ -1,0 +1,66 @@
+{
+	"storyName": "Flippy",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"flippy",
+		""
+	],
+	"songs": [
+		[
+			"flippy-roll",
+			"flippy",
+			[
+				155,
+				255,
+				53
+			]
+		],
+		[
+			"happy-tree-land",
+			"flippy",
+			[
+				155,
+				255,
+				13
+			]
+		],
+		[
+			"massacre",
+			"flippy-pissed",
+			[
+				55,
+				175,
+				13
+			]
+		],
+		[
+			"flippin-out",
+			"flippy-super-pissed",
+			[
+				15,
+				95,
+				13
+			]
+		],
+		[
+			"unflipped-out",
+			"unflipped",
+			[
+				55,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Fliqpy"
+}

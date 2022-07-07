@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				142,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GGirl Right"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GGirl Down"
+		},
+		{
+			"offsets": [
+				60,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GGirl Up"
+		},
+		{
+			"offsets": [
+				-124,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GGirl Left"
+		},
+		{
+			"offsets": [
+				35,
+				631
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pass",
+			"indices": [],
+			"name": "GGirl Passing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-10
+			],
+			"anim": "poof",
+			"fps": 24,
+			"name": "GGirl Poof",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 23,
+			"name": "GGirl Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GGirl Alexis Full Spritesheet",
+	"position": [
+		190,
+		260
+	],
+	"healthicon": "burried",
+	"flip_x": true,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		-480,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 2.00000000000003
+}

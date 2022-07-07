@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				580,
+				-530
+			],
+			"anim": "hey",
+			"fps": 71,
+			"name": "math",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				150,
+				-90
+			],
+			"anim": "singDOWN-loop",
+			"fps": 17,
+			"name": "Whitty Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				210,
+				40
+			],
+			"anim": "singLEFT-loop",
+			"fps": 17,
+			"name": "Whitty Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				150
+			],
+			"anim": "singUP-loop",
+			"fps": 55,
+			"name": "Whitty Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				30
+			],
+			"anim": "idle-loop",
+			"fps": 14,
+			"name": "Whitty idle dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				180,
+				-40
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 20,
+			"name": "whitty sing note right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				40
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Monster left note"
+		},
+		{
+			"offsets": [
+				180,
+				-40
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Monster Right note"
+		},
+		{
+			"offsets": [
+				110,
+				150
+			],
+			"loop": false,
+			"fps": 55,
+			"anim": "singUP",
+			"indices": [],
+			"name": "monster up note"
+		},
+		{
+			"offsets": [
+				150,
+				-90
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Monster down"
+		},
+		{
+			"offsets": [
+				110,
+				30
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": false,
+			"name": "Whitty idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whitty Mad Split",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "whitty2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-280,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

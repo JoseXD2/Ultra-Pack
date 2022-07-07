@@ -1,0 +1,48 @@
+{
+	"storyName": "Momi",
+	"hideFreeplay": false,
+	"weekBackground": "momi",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"momi-roll",
+			"momi",
+			[
+				235,
+				215,
+				135
+			]
+		],
+		[
+			"nazel",
+			"momi",
+			[
+				235,
+				215,
+				135
+			]
+		],
+		[
+			"",
+			"momi",
+			[
+				235,
+				215,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Momi"
+}

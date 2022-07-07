@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DECAY 1 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DECAY 1 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DECAY 1 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DECAY 1 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DECAY 1 right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/disabled/decay1",
+	"position": [
+		-10,
+		350
+	],
+	"healthicon": "sfu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-207,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

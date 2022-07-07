@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hypno Phase 1 Sheet.png">
+<SubTexture name="Hypno0000" x="2367" y="1230" width="796" height="608" frameX="-14" frameY="-26" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0001" x="2367" y="1230" width="796" height="608" frameX="-14" frameY="-26" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0002" x="2367" y="620" width="805" height="610" frameX="-3" frameY="-26" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0003" x="2367" y="620" width="805" height="610" frameX="-3" frameY="-26" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0004" x="2367" y="0" width="809" height="620" frameX="0" frameY="-15" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0005" x="799" y="1269" width="804" height="623" frameX="-5" frameY="-12" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0006" x="0" y="1269" width="799" height="629" frameX="-10" frameY="-7" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0007" x="0" y="1269" width="799" height="629" frameX="-10" frameY="-6" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0008" x="1578" y="0" width="789" height="633" frameX="-16" frameY="-3" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0009" x="0" y="635" width="791" height="634" frameX="-15" frameY="-2" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0010" x="0" y="635" width="791" height="634" frameX="-15" frameY="-2" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0011" x="0" y="0" width="789" height="635" frameX="-16" frameY="-1" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0012" x="0" y="0" width="789" height="635" frameX="-16" frameY="0" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0013" x="789" y="0" width="789" height="635" frameX="-16" frameY="-1" frameWidth="810" frameHeight="636" />
+<SubTexture name="Hypno0014" x="789" y="0" width="789" height="635" frameX="-16" frameY="0" frameWidth="810" frameHeight="636" />
+</TextureAtlas>

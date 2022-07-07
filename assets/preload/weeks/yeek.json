@@ -1,0 +1,49 @@
+{
+	"storyName": "Bambi gets mad",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "xeek",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bambimad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"vexatious",
+			"Worried Bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"fundophobia",
+			"Mad Bambi",
+			[
+				12,
+				181,
+				0
+			]
+		],
+		[
+			"unsustainable",
+			"mad",
+			[
+				26,
+				33,
+				33
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

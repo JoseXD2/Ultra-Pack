@@ -1,0 +1,37 @@
+{
+	"position": [
+		-30,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.3,
+	"image": "fernan_portrait",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "FERNAN_NORMAL0013",
+			"loop_name": "FERNAN_NORMAL"
+		},
+		{
+			"loop_name": "FERNAN_FRUSTADO",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FERNAN_FRUSTADO0013",
+			"anim": "cry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

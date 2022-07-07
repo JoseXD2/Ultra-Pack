@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Curly.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Curly0000" x="0" y="0" width="1407" height="935" frameX="0" frameY="-149" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0001" x="0" y="0" width="1407" height="935" frameX="0" frameY="-149" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0002" x="1407" y="0" width="1447" height="1101" frameX="-22" frameY="-53" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0003" x="1407" y="0" width="1447" height="1101" frameX="-22" frameY="-53" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0004" x="0" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0005" x="0" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0006" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0007" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0008" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0009" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0010" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0011" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0012" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0013" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0014" x="0" y="2329" width="1407" height="902" frameX="0" frameY="-149" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0015" x="0" y="2329" width="1407" height="902" frameX="0" frameY="-149" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0016" x="1407" y="2329" width="1447" height="1101" frameX="-22" frameY="-53" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0017" x="1407" y="2329" width="1447" height="1101" frameX="-22" frameY="-53" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0018" x="0" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0019" x="0" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0020" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0021" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0022" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0023" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0024" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0025" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0026" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+	<SubTexture name="Curly0027" x="1468" y="1101" width="1468" height="1228" frameX="-29" frameY="0" frameWidth="1497" frameHeight="1228"/>
+</TextureAtlas>

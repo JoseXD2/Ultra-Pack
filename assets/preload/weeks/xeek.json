@@ -1,0 +1,58 @@
+{
+	"storyName": "chillin outside da barn nothing bad can happen right????",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekh",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Dave",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"home",
+			"dave",
+			[
+				55,
+				175,
+				213
+			]
+		],
+		[
+			"signalwave",
+			"super",
+			[
+				155,
+				255,
+				133
+			]
+		],
+		[
+			"expunge",
+			"super",
+			[
+				106,
+				255,
+				95
+			]
+		],
+		[
+			"fairness",
+			"unfair",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "zamn"
+}

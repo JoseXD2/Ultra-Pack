@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "stagedark",
+		"player1": "bfTroll",
+		"player2": "sonicdark",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"taste-for-blood",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfTroll",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "taste-for-blood"
+	}
+}

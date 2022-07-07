@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Yuri_TT_Sheet.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Y Down0000" x="10" y="10" width="313" height="297"/>
+	<SubTexture name="Y Down0001" x="10" y="10" width="313" height="297"/>
+	<SubTexture name="Y Down0002" x="343" y="10" width="284" height="296"/>
+	<SubTexture name="Y Down0003" x="496" y="703" width="235" height="301"/>
+	<SubTexture name="Y Down0004" x="496" y="703" width="235" height="301"/>
+	<SubTexture name="Y Down0005" x="670" y="1053" width="211" height="312"/>
+	<SubTexture name="Y Down0006" x="10" y="1425" width="205" height="320"/>
+	<SubTexture name="Y Down0007" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0008" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0009" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0010" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0011" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0012" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0013" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0014" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0015" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0016" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Down0017" x="1592" y="733" width="199" height="327"/>
+	<SubTexture name="Y Idle0000" x="2227" y="365" width="174" height="334"/>
+	<SubTexture name="Y Idle0001" x="204" y="1766" width="178" height="324"/>
+	<SubTexture name="Y Idle0002" x="204" y="1766" width="178" height="324"/>
+	<SubTexture name="Y Idle0003" x="236" y="1426" width="186" height="313"/>
+	<SubTexture name="Y Idle0004" x="236" y="1426" width="186" height="313"/>
+	<SubTexture name="Y Idle0005" x="2227" y="1422" width="172" height="317"/>
+	<SubTexture name="Y Idle0006" x="1592" y="1080" width="182" height="325"/>
+	<SubTexture name="Y Idle0007" x="1592" y="1080" width="182" height="325"/>
+	<SubTexture name="Y Idle0008" x="2227" y="1071" width="174" height="331"/>
+	<SubTexture name="Y Idle0009" x="2227" y="365" width="174" height="334"/>
+	<SubTexture name="Y Laugh Down0000" x="1355" y="10" width="217" height="325"/>
+	<SubTexture name="Y Laugh Down0001" x="1355" y="10" width="217" height="325"/>
+	<SubTexture name="Y Laugh Down0002" x="255" y="703" width="221" height="328"/>
+	<SubTexture name="Y Laugh Down0003" x="10" y="703" width="225" height="330"/>
+	<SubTexture name="Y Laugh Down0004" x="260" y="327" width="228" height="333"/>
+	<SubTexture name="Y Laugh Down0005" x="260" y="327" width="228" height="333"/>
+	<SubTexture name="Y Laugh Down0006" x="260" y="327" width="228" height="333"/>
+	<SubTexture name="Y Laugh Down0007" x="260" y="327" width="228" height="333"/>
+	<SubTexture name="Y Laugh Down0008" x="260" y="327" width="228" height="333"/>
+	<SubTexture name="Y Laugh Down0009" x="260" y="327" width="228" height="333"/>
+	<SubTexture name="Y Laugh Up0000" x="227" y="1053" width="195" height="350"/>
+	<SubTexture name="Y Laugh Up0001" x="227" y="1053" width="195" height="350"/>
+	<SubTexture name="Y Laugh Up0002" x="1592" y="365" width="191" height="348"/>
+	<SubTexture name="Y Laugh Up0003" x="1813" y="373" width="184" height="347"/>
+	<SubTexture name="Y Laugh Up0004" x="1813" y="740" width="183" height="345"/>
+	<SubTexture name="Y Laugh Up0005" x="1813" y="740" width="183" height="345"/>
+	<SubTexture name="Y Laugh Up0006" x="1813" y="740" width="183" height="345"/>
+	<SubTexture name="Y Laugh Up0007" x="1813" y="740" width="183" height="345"/>
+	<SubTexture name="Y Laugh Up0008" x="1813" y="740" width="183" height="345"/>
+	<SubTexture name="Y Laugh Up0009" x="1813" y="740" width="183" height="345"/>
+	<SubTexture name="Y Left0000" x="1121" y="10" width="214" height="346"/>
+	<SubTexture name="Y Left0001" x="1121" y="10" width="214" height="346"/>
+	<SubTexture name="Y Left0002" x="1813" y="10" width="187" height="343"/>
+	<SubTexture name="Y Left0003" x="2020" y="1068" width="175" height="341"/>
+	<SubTexture name="Y Left0004" x="2020" y="1068" width="175" height="341"/>
+	<SubTexture name="Y Left0005" x="10" y="1765" width="173" height="339"/>
+	<SubTexture name="Y Left0006" x="2020" y="360" width="179" height="336"/>
+	<SubTexture name="Y Left0007" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0008" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0009" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0010" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0011" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0012" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0013" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0014" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0015" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0016" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Left0017" x="2227" y="10" width="174" height="335"/>
+	<SubTexture name="Y Right0000" x="442" y="1053" width="208" height="328"/>
+	<SubTexture name="Y Right0001" x="442" y="1053" width="208" height="328"/>
+	<SubTexture name="Y Right0002" x="2020" y="10" width="187" height="330"/>
+	<SubTexture name="Y Right0003" x="2020" y="716" width="180" height="332"/>
+	<SubTexture name="Y Right0004" x="2020" y="716" width="180" height="332"/>
+	<SubTexture name="Y Right0005" x="1592" y="10" width="201" height="335"/>
+	<SubTexture name="Y Right0006" x="1813" y="1105" width="186" height="333"/>
+	<SubTexture name="Y Right0007" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0008" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0009" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0010" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0011" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0012" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0013" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0014" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0015" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0016" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Right0017" x="2227" y="719" width="174" height="332"/>
+	<SubTexture name="Y Up0000" x="647" y="10" width="223" height="360"/>
+	<SubTexture name="Y Up0001" x="647" y="10" width="223" height="360"/>
+	<SubTexture name="Y Up0002" x="1355" y="355" width="193" height="359"/>
+	<SubTexture name="Y Up0003" x="1121" y="376" width="199" height="357"/>
+	<SubTexture name="Y Up0004" x="1121" y="376" width="199" height="357"/>
+	<SubTexture name="Y Up0005" x="10" y="327" width="230" height="356"/>
+	<SubTexture name="Y Up0006" x="890" y="10" width="211" height="354"/>
+	<SubTexture name="Y Up0007" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0008" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0009" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0010" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0011" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0012" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0013" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0014" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0015" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0016" x="10" y="1053" width="197" height="352"/>
+	<SubTexture name="Y Up0017" x="10" y="1053" width="197" height="352"/>
+</TextureAtlas>

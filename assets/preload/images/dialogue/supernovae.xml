@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="supernovae.png"><SubTexture name="sad0000" x="0" y="0" width="432" height="521" frameX="0" frameY="0" frameWidth="432" frameHeight="522" />
+<SubTexture name="talk0000" x="432" y="0" width="432" height="521" frameX="0" frameY="0" frameWidth="432" frameHeight="522" />
+<SubTexture name="talkendy0000" x="864" y="0" width="432" height="521" frameX="0" frameY="0" frameWidth="432" frameHeight="521" />
+</TextureAtlas>

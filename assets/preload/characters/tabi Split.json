@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				114,
+				-226
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				99,
+				-227
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				37,
+				-140
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				41,
+				-140
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				223,
+				-158
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				200,
+				-155
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				105,
+				-112
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				106,
+				-113
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				141,
+				-92
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				141,
+				-91
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TABI Split",
+	"position": [
+		230,
+		350
+	],
+	"healthicon": "tabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		187,
+		129
+	],
+	"camera_position": [
+		-660,
+		-780
+	],
+	"sing_duration": 6.1,
+	"scale": 2.5
+}

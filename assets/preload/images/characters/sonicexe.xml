@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonicexe.png(S.G.YT)">
+<SubTexture name="sonicexe idle0000" x="43" y="88" width="465" height="628" frameX="0" frameY="-230" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe idle0001" x="546" y="90" width="469" height="623" frameX="0" frameY="-230" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe idle0002" x="1043" y="69" width="453" height="640" frameX="0" frameY="-220" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe idle0003" x="1545" y="59" width="451" height="649" frameX="0" frameY="-220" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe idle0004" x="2017" y="60" width="465" height="655" frameX="0" frameY="-220" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe idle0005" x="2498" y="60" width="472" height="661" frameX="0" frameY="-190" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe idle0006" x="24" y="793" width="477" height="663" frameX="0" frameY="-190" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe down0000" x="541" y="900" width="656" height="540" frameX="0" frameY="-330" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe down0001" x="541" y="900" width="656" height="540" frameX="0" frameY="-330" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe down0002" x="1236" y="901" width="655" height="547" frameX="0" frameY="-330" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe down0003" x="1236" y="901" width="655" height="547" frameX="0" frameY="-330" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe up0000" x="17" y="1487" width="576" height="747" frameX="0" frameY="-120" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe up0001" x="17" y="1487" width="576" height="747" frameX="0" frameY="-120" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe up0002" x="647" y="1500" width="582" height="732" frameX="0" frameY="-120" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe up0003" x="647" y="1500" width="582" height="732" frameX="0" frameY="-120" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe left0000" x="1258" y="1599" width="673" height="638" frameX="0" frameY="-220" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe left0001" x="1258" y="1599" width="673" height="638" frameX="0" frameY="-220" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe left0002" x="2003" y="1585" width="658" height="637" frameX="0" frameY="-220" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe left0003" x="2003" y="1585" width="658" height="637" frameX="0" frameY="-220" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe right0000" x="1921" y="757" width="627" height="688" frameX="0" frameY="-190" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe right0001" x="1921" y="757" width="627" height="688" frameX="0" frameY="-190" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe right0002" x="75" y="2267" width="627" height="688" frameX="0" frameY="-190" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe right0003" x="75" y="2267" width="627" height="688" frameX="0" frameY="-190" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe laugh0000" x="766" y="2297" width="551" height="665" frameX="0" frameY="-200" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe laugh0001" x="766" y="2297" width="551" height="665" frameX="0" frameY="-200" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe laugh0002" x="766" y="2297" width="551" height="665" frameX="0" frameY="-200" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe laugh0003" x="1378" y="2302" width="554" height="655" frameX="0" frameY="-200" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe laugh0004" x="1378" y="2302" width="554" height="655" frameX="0" frameY="-200" frameWidth="764" frameHeight="854" />
+<SubTexture name="sonicexe laugh0005" x="1378" y="2302" width="554" height="655" frameX="0" frameY="-200" frameWidth="764" frameHeight="854" />
+</TextureAtlas>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cubo.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cuboABAJO0000" x="5" y="5" width="519" height="422" frameX="0" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboARRIBA0000" x="534" y="5" width="540" height="371"/>
+	<SubTexture name="cuboDERECHA0000" x="534" y="386" width="547" height="387"/>
+	<SubTexture name="cuboIDLE0000" x="1084" y="5" width="601" height="305" frameX="0" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIZQUIERDA0000" x="1091" y="320" width="492" height="409"/>
+	<SubTexture name="cuboPINCHO0000" x="5" y="739" width="376" height="305" frameX="-171" frameY="-45" frameWidth="1343" frameHeight="371"/>
+</TextureAtlas>
+optimized by nt846

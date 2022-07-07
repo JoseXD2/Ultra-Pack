@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="six sheet.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="5" y="5" width="471" height="343" frameX="0" frameY="-16" frameWidth="474" frameHeight="359"/>
+	<SubTexture name="idle0000" x="486" y="5" width="368" height="415" frameX="0" frameY="-5" frameWidth="368" frameHeight="422"/>
+	<SubTexture name="left0000" x="5" y="430" width="459" height="385" frameX="0" frameY="-2" frameWidth="485" frameHeight="387"/>
+	<SubTexture name="right0000" x="474" y="430" width="473" height="414" frameX="-6" frameY="-7" frameWidth="479" frameHeight="421"/>
+	<SubTexture name="up0000" x="957" y="5" width="350" height="502" frameX="-15" frameY="0" frameWidth="379" frameHeight="502"/>
+</TextureAtlas>
+optimized by nt846

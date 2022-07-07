@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Solazar_Sprites.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sol_Down0000" x="0" y="0" width="1001" height="1073"/>
+	<SubTexture name="Sol_Down0001" x="0" y="0" width="1001" height="1073"/>
+	<SubTexture name="Sol_Down0002" x="1001" y="0" width="1001" height="1073"/>
+	<SubTexture name="Sol_Down0003" x="1001" y="0" width="1001" height="1073"/> name="Sol_Idle_20000" x="2002" y="0" width="591" height="1062"/>
+	<SubTexture name="Sol_Idle_20001" x="2002" y="0" width="591" height="1062"/>
+	<SubTexture name="Sol_Idle_20002" x="2593" y="0" width="591" height="1062"/>
+	<SubTexture name="Sol_Idle_20003" x="2593" y="0" width="591" height="1062"/>
+	<SubTexture name="Sol_Idle_20004" x="3183" y="0" width="591" height="1062"/>
+	<SubTexture name="Sol_Idle_20005" x="3183" y="0" width="591" height="1062"/>
+	<SubTexture name="Sol_Idle_20006" x="0" y="1086" width="591" height="1062"/>
+	<SubTexture name="Sol_Idle_20007" x="0" y="1086" width="591" height="1062"/>
+	<SubTexture name="Sol_Idle_20008" x="591" y="1086" width="591" height="1062"/>
+	<SubTexture name="Sol_Idle_20009" x="591" y="1086" width="591" height="1062"/>
+	<SubTexture name="Sol_Left0000" x="1180" y="1086" width="971" height="1049"/>
+	<SubTexture name="Sol_Left0001" x="1180" y="1086" width="971" height="1049"/>
+	<SubTexture name="Sol_Left0002" x="2155" y="1086" width="971" height="1049"/>
+	<SubTexture name="Sol_Left0003" x="2155" y="1086" width="971" height="1049"/>
+	<SubTexture name="Sol_Right0000" x="0" y="2170" width="1062" height="1038"/>
+	<SubTexture name="Sol_Right0001" x="0" y="2170" width="1062" height="1038"/>
+	<SubTexture name="Sol_Right0002" x="1060" y="2170" width="1062" height="1038"/>
+	<SubTexture name="Sol_Right0003" x="1060" y="2170" width="1062" height="1038"/>
+	<SubTexture name="Sol_Up0000" x="3474" y="1121" width="621" height="1126"/>
+	<SubTexture name="Sol_Up0001" x="3474" y="1121" width="621" height="1126"/>
+	<SubTexture name="Sol_Up0002" x="2276" y="2194" width="621" height="1126"/>
+	<SubTexture name="Sol_Up0003" x="2276" y="2194" width="621" height="1126"/>
+</TextureAtlas>

@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "psycho",
+			"text": "Enough.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "psycho",
+			"text": "Seeing you dead is the only way to be satisfied.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "psycho",
+			"text": "The rest don't even know how to react when I'm about to kill them.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "psycho",
+			"text": "Pathetic...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "psycho",
+			"text": "What can you do now?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "psycho",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "psycho",
+			"text": "Hahaha!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "psycho",
+			"text": "I love watching you 2 suffer.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "psycho",
+			"text": "I bruised your girlfriend, if that makes you more \"brave\".",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "psycho",
+			"text": "You can't achieve anything dwarf.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "psycho",
+			"text": "Worm.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		}
+	]
+}

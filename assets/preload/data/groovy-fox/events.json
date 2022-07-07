@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "tailsbackground",
+		"player1": "bfTroll",
+		"player2": "tails",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"groovy-fox",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfTroll",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "groovy-fox"
+	}
+}

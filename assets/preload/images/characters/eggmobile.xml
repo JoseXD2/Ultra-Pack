@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eggmobile.png(S.G.YT)">
+<SubTexture name="eggmobile idle0000" x="23" y="26" width="628" height="762" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile idle0001" x="705" y="30" width="628" height="764" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile idle0002" x="1423" y="20" width="622" height="770" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile idle0003" x="2118" y="25" width="622" height="776" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile idle0004" x="43" y="843" width="621" height="778" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile idle0005" x="751" y="849" width="623" height="779" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile idle0006" x="1456" y="854" width="625" height="780" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile right0000" x="2152" y="865" width="622" height="782" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile right0001" x="2152" y="865" width="622" height="782" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile right0002" x="38" y="1666" width="625" height="788" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile right0003" x="38" y="1666" width="625" height="788" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile left0000" x="803" y="1663" width="625" height="791" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile left0001" x="803" y="1663" width="625" height="791" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile left0002" x="1522" y="1679" width="624" height="788" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile left0003" x="1522" y="1679" width="624" height="788" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile down0000" x="2203" y="1703" width="625" height="781" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile down0001" x="2203" y="1703" width="625" height="781" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile down0002" x="44" y="2509" width="625" height="788" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile down0003" x="44" y="2509" width="625" height="788" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile up0000" x="747" y="2499" width="630" height="795" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile up0001" x="747" y="2499" width="630" height="795" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile up0002" x="1474" y="2501" width="627" height="790" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+<SubTexture name="eggmobile up0003" x="1474" y="2501" width="627" height="790" frameX="0" frameY="0" frameWidth="764" frameHeight="854" />
+</TextureAtlas>

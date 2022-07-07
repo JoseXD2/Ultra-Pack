@@ -1,0 +1,10 @@
+{
+	"idle_anim": "?",
+	"image": "UNOWN",
+	"position": [
+		0,
+		-50
+	],
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

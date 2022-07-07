@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carol_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="carol alt down0000" x="0" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt down0001" x="0" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt down0002" x="460" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt down0003" x="460" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt down0004" x="920" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt down0005" x="920" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt down0006" x="920" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt down0007" x="920" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt down0008" x="1380" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt down0009" x="1380" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0000" x="0" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0001" x="0" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0002" x="490" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0003" x="490" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0004" x="980" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0005" x="980" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0006" x="1470" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0007" x="1470" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0008" x="1470" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0009" x="1960" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0010" x="1960" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0011" x="1960" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0012" x="1850" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0013" x="1850" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0014" x="2340" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0015" x="2340" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0016" x="2830" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0017" x="2830" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0018" x="2830" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0019" x="3320" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0020" x="3320" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt idle0021" x="3320" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0000" x="0" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0001" x="0" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0002" x="480" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0003" x="480" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0004" x="960" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0005" x="960" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0006" x="1440" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0007" x="1440" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0008" x="1920" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt left0009" x="1920" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0000" x="2910" y="635" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0001" x="2910" y="635" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0002" x="3390" y="635" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0003" x="3390" y="635" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0004" x="2430" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0005" x="2430" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0006" x="2910" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0007" x="2910" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0008" x="3390" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt right0009" x="3390" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0000" x="0" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0001" x="0" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0002" x="480" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0003" x="480" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0004" x="960" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0005" x="960" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0006" x="1440" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0007" x="1440" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0008" x="1920" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol alt up0009" x="1920" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0000" x="0" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0001" x="0" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0002" x="460" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0003" x="460" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0004" x="920" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0005" x="920" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0006" x="920" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0007" x="920" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0008" x="1380" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol down0009" x="1380" y="0" width="460" height="641" frameX="-215" frameY="-170"  frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0000" x="0" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0001" x="0" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0002" x="490" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0003" x="490" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0004" x="980" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0005" x="980" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0006" x="1470" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0007" x="1470" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0008" x="1470" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0009" x="1960" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0010" x="1960" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0011" x="1960" y="635" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0012" x="1850" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0013" x="1850" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0014" x="2340" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0015" x="2340" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0016" x="2830" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0017" x="2830" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0018" x="2830" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0019" x="3320" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0020" x="3320" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol idle0021" x="3320" y="0" width="490" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0000" x="0" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0001" x="0" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0002" x="480" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0003" x="480" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0004" x="960" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0005" x="960" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0006" x="1440" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0007" x="1440" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0008" x="1920" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol left0009" x="1920" y="1291" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0000" x="2910" y="635" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0001" x="2910" y="635" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0002" x="3390" y="635" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0003" x="3390" y="635" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0004" x="2430" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0005" x="2430" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0006" x="2910" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0007" x="2910" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0008" x="3390" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol right0009" x="3390" y="1291" width="480" height="641 " frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0000" x="0" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0001" x="0" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0002" x="480" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0003" x="480" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0004" x="960" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0005" x="960" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0006" x="1440" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0007" x="1440" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0008" x="1920" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol up0009" x="1920" y="1938" width="480" height="641" frameX="-200" frameY="-170" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance down0000" x="2460" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance down0001" x="2460" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance down0002" x="2850" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance down0003" x="2850" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance down0004" x="2850" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance down0005" x="2850" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance down0006" x="2850" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance down0007" x="2850" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance down0008" x="2850" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance down0009" x="2850" y="1958" width="390" height="574" frameX="-125" frameY="-257" frameWidth="779" frameHeight="831"/>
+	<SubTexture name="carol dance left0000" x="0" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance left0001" x="0" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance left0002" x="390" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance left0003" x="390" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance left0004" x="780" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance left0005" x="780" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance left0006" x="780" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance left0007" x="780" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance left0008" x="780" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance left0009" x="780" y="2607" width="389" height="634" frameX="-125" frameY="-177" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0000" x="1210" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0001" x="1210" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0002" x="1641" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0003" x="1641" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0004" x="2072" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0005" x="2072" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0006" x="2072" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0007" x="2072" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0008" x="2072" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance right0009" x="2072" y="2589" width="490" height="640" frameX="-200" frameY="-171" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance up0000" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance up0001" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+ <SubTexture name="carol dance up0002" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance up0003" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance up0004" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance up0005" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance up0006" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance up0007" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance up0008" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+	<SubTexture name="carol dance up0009" x="451" y="3424" width="450" height="660" frameX="-80" frameY="-154" frameWidth="779" frameHeight="811"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bucketzombiewalking.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Zombie boppin Bucket0000" x="10" y="10" width="390" height="658" frameX="-28" frameY="-6" frameWidth="425" frameHeight="664"/>
+	<SubTexture name="Zombie halting Bucket0000" x="10" y="10" width="390" height="658" frameX="-28" frameY="-6" frameWidth="425" frameHeight="664"/>
+	<SubTexture name="Zombie walk Buckey0000" x="10" y="10" width="390" height="658" frameX="-28" frameY="-6" frameWidth="425" frameHeight="664"/>
+</TextureAtlas>

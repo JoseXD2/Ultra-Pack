@@ -1,0 +1,30 @@
+{
+	"storyName": "Deathmatch",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tutorial",
+	"freeplayColor": [
+		100,
+		100,
+		100
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"deathmatch",
+			"purplefuck",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Sonic.exe Version"
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="others.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="others0000" x="0" y="0" width="1781" height="268"/>
+	<SubTexture name="others0001" x="0" y="0" width="1781" height="268"/>
+	<SubTexture name="others0002" x="0" y="289" width="1781" height="268"/>
+	<SubTexture name="others0003" x="0" y="289" width="1781" height="268"/>
+	<SubTexture name="others0004" x="0" y="578" width="1781" height="268"/>
+	<SubTexture name="others0005" x="0" y="578" width="1781" height="268"/>
+	<SubTexture name="others0006" x="0" y="867" width="1781" height="268"/>
+	<SubTexture name="others0007" x="0" y="867" width="1781" height="268"/>
+	<SubTexture name="others0008" x="0" y="867" width="1781" height="268"/>
+	<SubTexture name="others0009" x="0" y="867" width="1781" height="268"/>
+	<SubTexture name="others0010" x="0" y="867" width="1781" height="268"/>
+	<SubTexture name="others0011" x="0" y="867" width="1781" height="268"/>
+	<SubTexture name="others0012" x="0" y="867" width="1781" height="268"/>
+	<SubTexture name="others0013" x="0" y="867" width="1781" height="268"/>
+</TextureAtlas>

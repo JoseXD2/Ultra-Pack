@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neo_Garcello.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garcello idle0000" x="391" y="0" width="193" height="411" frameX="-3" frameY="-15" frameWidth="196" frameHeight="426"/>
+	<SubTexture name="garcello idle0001" x="196" y="0" width="195" height="419" frameX="-1" frameY="-7" frameWidth="196" frameHeight="426"/>
+	<SubTexture name="garcello idle0002" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0003" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0004" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0005" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0006" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0007" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0008" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0009" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0010" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0011" x="0" y="0" width="196" height="426"/>
+	<SubTexture name="garcello idle0012" x="0" y="0" width="196" height="426"/>
+</TextureAtlas>

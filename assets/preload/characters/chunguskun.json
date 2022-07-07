@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Chungus Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-385
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Chungus Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				40
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chungus Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Chungus Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chungus Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chunguskun",
+	"position": [
+		-50,
+		0
+	],
+	"healthicon": "pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		234,
+		243
+	],
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

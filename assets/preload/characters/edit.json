@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RESKIN idle dance"
+		},
+		{
+			"offsets": [
+				-31,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RESKIN Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RESKIN Sing Note UP"
+		},
+		{
+			"offsets": [
+				-2,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RESKIN Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-11,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RESKIN Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wigglytuffeditado",
+	"position": [
+		-10,
+		350
+	],
+	"healthicon": "jigglypuff",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-207,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hypno2 Health Icon.png"><SubTexture name="Hypno2 Icon0000" x="176" y="0" width="176" height="175" frameX="-13" frameY="0" frameWidth="191" frameHeight="550" />
+<SubTexture name="Hypno2 Icon0001" x="0" y="0" width="176" height="178" frameX="-13" frameY="0" frameWidth="191" frameHeight="550" />
+<SubTexture name="Hypno2 Icon0002" x="0" y="178" width="176" height="173" frameX="0" frameY="-4" frameWidth="191" frameHeight="550" />
+</TextureAtlas>

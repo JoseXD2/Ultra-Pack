@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DaidemAssetsREwork.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="5" y="5" width="751" height="591" frameX="0" frameY="-46" frameWidth="751" frameHeight="638"/>
+	<SubTexture name="Idke0000" x="766" y="5" width="416" height="863" frameX="-4" frameY="-48" frameWidth="424" frameHeight="911"/>
+	<SubTexture name="Left0000" x="1192" y="5" width="794" height="810" frameX="0" frameY="-51" frameWidth="824" frameHeight="861"/>
+	<SubTexture name="Right0000" x="5" y="825" width="671" height="762" frameX="0" frameY="-116" frameWidth="677" frameHeight="878"/>
+	<SubTexture name="Up0000" x="1192" y="825" width="410" height="871" frameX="-17" frameY="-48" frameWidth="452" frameHeight="919"/>
+</TextureAtlas>
+optimized by nt846

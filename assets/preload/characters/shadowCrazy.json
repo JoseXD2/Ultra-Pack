@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "yep shoot",
+			"loop": false,
+			"name": "shoot"
+		},
+		{
+			"offsets": [
+				7,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle crazy"
+		},
+		{
+			"offsets": [
+				17,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left crazy"
+		},
+		{
+			"offsets": [
+				-30,
+				-209
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down crazy"
+		},
+		{
+			"offsets": [
+				-4,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up crazy"
+		},
+		{
+			"offsets": [
+				-34,
+				-56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right crazy"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "die yep",
+			"loop": false,
+			"name": "die"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadow crazy",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "shadow-crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		20,
+		0
+	],
+	"camera_position": [
+		40,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

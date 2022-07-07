@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "shadow dies"
+		},
+		{
+			"offsets": [
+				-491,
+				-193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "dead loop"
+		},
+		{
+			"offsets": [
+				-493,
+				-185
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadow_fucking_dies",
+	"position": [
+		-710,
+		-110
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-150,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

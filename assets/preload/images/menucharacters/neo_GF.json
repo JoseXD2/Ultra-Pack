@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "BF HEY!!",
+	"idle_anim": "GF Dancing Beat WHITE",
+	"position": [
+		162,
+		139
+	],
+	"scale": 0.6,
+	"image": "neo_GF"
+}

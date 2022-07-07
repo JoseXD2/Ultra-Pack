@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "monster idle"
+		},
+		{
+			"offsets": [
+				134,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Monster Right note"
+		},
+		{
+			"offsets": [
+				-46,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Monster left note"
+		},
+		{
+			"offsets": [
+				-23,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "monster down"
+		},
+		{
+			"offsets": [
+				144,
+				145
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "monster up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Monster_Assets",
+	"position": [
+		-110,
+		20
+	],
+	"healthicon": "Senor Barriga",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

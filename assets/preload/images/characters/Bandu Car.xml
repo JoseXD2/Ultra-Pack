@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bandu Car.png">
+<SubTexture name="Bandu Car down0000" x="1394" y="2022" width="1398" height="673" frameX="-508" frameY="-294" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car idle0000" x="0" y="0" width="1397" height="674" frameX="-428" frameY="-363" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car left0000" x="1397" y="0" width="1398" height="674" frameX="-414" frameY="-361" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car left0001" x="1397" y="0" width="1398" height="674" frameX="-414" frameY="-361" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car left0002" x="0" y="674" width="1398" height="674" frameX="-414" frameY="-361" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car left0003" x="0" y="674" width="1398" height="674" frameX="-414" frameY="-361" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car left0004" x="0" y="674" width="1398" height="674" frameX="-414" frameY="-361" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car left0005" x="0" y="674" width="1398" height="674" frameX="-414" frameY="-361" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car left0006" x="0" y="674" width="1398" height="674" frameX="-414" frameY="-361" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car left0007" x="0" y="674" width="1398" height="674" frameX="-414" frameY="-361" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car right0000" x="1398" y="674" width="1394" height="674" frameX="-454" frameY="-483" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car right0001" x="1398" y="674" width="1394" height="674" frameX="-454" frameY="-483" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car right0002" x="0" y="1348" width="1394" height="674" frameX="-454" frameY="-483" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car right0003" x="0" y="1348" width="1394" height="674" frameX="-454" frameY="-483" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car right0004" x="0" y="1348" width="1394" height="674" frameX="-454" frameY="-483" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car right0005" x="0" y="1348" width="1394" height="674" frameX="-454" frameY="-483" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car right0006" x="0" y="1348" width="1394" height="674" frameX="-454" frameY="-483" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car right0007" x="0" y="1348" width="1394" height="674" frameX="-454" frameY="-483" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car up0000" x="1394" y="1348" width="1394" height="674" frameX="-576" frameY="-512" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car up0001" x="1394" y="1348" width="1394" height="674" frameX="-576" frameY="-512" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car up0002" x="0" y="2022" width="1394" height="674" frameX="-576" frameY="-512" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car up0003" x="0" y="2022" width="1394" height="674" frameX="-576" frameY="-512" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car up0004" x="0" y="2022" width="1394" height="674" frameX="-576" frameY="-512" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car up0005" x="0" y="2022" width="1394" height="674" frameX="-576" frameY="-512" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car up0006" x="0" y="2022" width="1394" height="674" frameX="-576" frameY="-512" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car up0007" x="0" y="2022" width="1394" height="674" frameX="-576" frameY="-512" frameWidth="2296" frameHeight="1272" />
+</TextureAtlas>

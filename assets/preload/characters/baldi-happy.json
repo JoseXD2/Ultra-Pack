@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				192,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				118,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				223,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				36,
+				155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				20
+			],
+			"anim": "good",
+			"fps": 24,
+			"name": "good",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				24
+			],
+			"anim": "math",
+			"fps": 24,
+			"name": "math",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/baldihappy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "baldi-happy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		240,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

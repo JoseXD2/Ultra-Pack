@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="baldihappy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M idle0000" x="0" y="0" width="438" height="749" frameX="-11" frameY="-36" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0001" x="0" y="0" width="438" height="749" frameX="-11" frameY="-36" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0002" x="438" y="0" width="447" height="765" frameX="-9" frameY="-20" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0003" x="438" y="0" width="447" height="765" frameX="-9" frameY="-20" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0004" x="885" y="0" width="444" height="781" frameX="-1" frameY="-4" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0005" x="885" y="0" width="444" height="781" frameX="-1" frameY="-4" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0006" x="885" y="0" width="444" height="781" frameX="-1" frameY="-4" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0007" x="0" y="781" width="434" height="786" frameX="0" frameY="0" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0008" x="0" y="781" width="434" height="786" frameX="0" frameY="0" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0009" x="434" y="781" width="417" height="786" frameX="0" frameY="0" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0010" x="434" y="781" width="417" height="786" frameX="0" frameY="0" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0011" x="434" y="781" width="417" height="786" frameX="0" frameY="0" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0012" x="434" y="781" width="417" height="786" frameX="0" frameY="0" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0013" x="434" y="781" width="417" height="786" frameX="0" frameY="0" frameWidth="456" frameHeight="786"/>
+	<SubTexture name="M idle0014" x="434" y="781" width="417" height="786" frameX="0" frameY="0" frameWidth="456" frameHeight="786"/>
+	</TextureAtlas>

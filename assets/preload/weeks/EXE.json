@@ -1,0 +1,31 @@
+{
+	"storyName": "The Last Festival",
+	"difficulties": "Easy, Normal, Hard, Lunatic",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Monika",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"triple-trouble",
+			"monika",
+			[
+				100,
+				233,
+				100
+			]
+		]
+	],
+	"weekName": "EXE"
+}

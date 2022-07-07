@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-70
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PONYTA LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-158
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PONYTA DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-56
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PONYTA UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-81
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PONYTA RIGHT "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-51
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PONYTA IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PONYTA",
+	"position": [
+		800,
+		150
+	],
+	"healthicon": "ponyta",
+	"flip_x": true,
+	"healthbar_colors": [
+		200,
+		80,
+		40
+	],
+	"camera_position": [
+		-800,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

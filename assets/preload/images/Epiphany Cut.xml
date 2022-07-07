@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Epiphany Cut.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cut0000" x="0" y="0" width="619" height="1065"/>
+	<SubTexture name="Cut0001" x="661" y="0" width="619" height="1065"/>
+	<SubTexture name="Cut0002" x="1322" y="0" width="619" height="1065"/>
+	<SubTexture name="Cut0003" x="1983" y="0" width="619" height="1065"/>
+	<SubTexture name="Cut0004" x="2644" y="0" width="619" height="1065"/>
+	<SubTexture name="Cut0005" x="3305" y="0" width="619" height="1065"/>
+</TextureAtlas>

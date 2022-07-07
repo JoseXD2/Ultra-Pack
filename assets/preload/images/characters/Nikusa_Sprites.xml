@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Nikusa_Sprites.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="NikusaUp0000" x="0" y="0" width="727" height="1349" frameX="-5" frameY="0" frameWidth="737" frameHeight="1349"/>
+	<SubTexture name="NikusaUp0001" x="727" y="0" width="737" height="1328" frameX="0" frameY="-10" frameWidth="737" frameHeight="1349"/>
+	<SubTexture name="Nikusa_Down0000" x="1464" y="0" width="743" height="1282" frameX="-6" frameY="-5" frameWidth="755" frameHeight="1293"/>
+	<SubTexture name="Nikusa_Down0001" x="2207" y="0" width="755" height="1293"/>
+	<SubTexture name="Nikusa_Idle0000" x="2962" y="0" width="769" height="1300" frameX="-3" frameY="-1" frameWidth="775" frameHeight="1303"/>
+	<SubTexture name="Nikusa_Idle0001" x="0" y="1349" width="769" height="1303" frameX="-3" frameY="0" frameWidth="775" frameHeight="1303"/>
+	<SubTexture name="Nikusa_Idle0002" x="769" y="1349" width="769" height="1301" frameX="-3" frameY="-1" frameWidth="775" frameHeight="1303"/>
+	<SubTexture name="Nikusa_Idle0003" x="1538" y="1349" width="775" height="1301" frameX="0" frameY="-1" frameWidth="775" frameHeight="1303"/>
+	<SubTexture name="Nikusa_Idle0004" x="2313" y="1349" width="775" height="1301" frameX="0" frameY="-1" frameWidth="775" frameHeight="1303"/>
+	<SubTexture name="Nikusa_Left0000" x="3088" y="1349" width="697" height="1295" frameX="-10" frameY="-3" frameWidth="717" frameHeight="1301"/>
+	<SubTexture name="Nikusa_Left0001" x="0" y="2652" width="717" height="1301"/>
+	<SubTexture name="Nikusa_Right0000" x="717" y="2652" width="835" height="1355" frameX="0" frameY="0" frameWidth="837" frameHeight="1355"/>
+	<SubTexture name="Nikusa_Right0001" x="1552" y="2652" width="835" height="1314" frameX="-2" frameY="-32" frameWidth="837" frameHeight="1355"/>
+</TextureAtlas>
+

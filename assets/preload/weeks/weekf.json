@@ -1,0 +1,40 @@
+{
+	"storyName": "fernan el crack carajo",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"CRACK",
+			"fernan",
+			[
+				20,
+				255,
+				100
+			]
+		],
+		[
+			"Unstoppable-idol",
+			"fernan",
+			[
+				20,
+				255,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"weekName": "Week F"
+}

@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				210,
+				100
+			],
+			"idle_offsets": [
+				210,
+				100
+			],
+			"loop_name": "Senpai Portrait Enter instance 10006",
+			"idle_name": "Senpai Portrait Enter instance 10006"
+		},
+		{
+			"loop_name": "Senpai Portrait Enter instance 10000",
+			"idle_offsets": [
+				210,
+				100
+			],
+			"idle_name": "Senpai Portrait Enter instance 10000",
+			"anim": "psycho",
+			"loop_offsets": [
+				210,
+				100
+			]
+		},
+		{
+			"loop_name": "Senpai Portrait Enter instance 10001",
+			"idle_offsets": [
+				210,
+				100
+			],
+			"idle_name": "Senpai Portrait Enter instance 10002",
+			"anim": "happy",
+			"loop_offsets": [
+				210,
+				100
+			]
+		},
+		{
+			"loop_name": "Senpai Portrait Enter instance 10004",
+			"idle_offsets": [
+				210,
+				100
+			],
+			"idle_name": "Senpai Portrait Enter instance 10004",
+			"anim": "angry",
+			"loop_offsets": [
+				210,
+				100
+			]
+		}
+	],
+	"image": "fliqpy"
+}

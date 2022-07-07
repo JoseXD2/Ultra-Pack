@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-1
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Worried Bambi right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				41
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				20
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Worried Bambi up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-26
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Worried Bambi down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "screm",
+			"fps": 24,
+			"name": "screm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Worried Bambi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Worried Bambi left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mad Bambi",
+	"position": [
+		60,
+		340
+	],
+	"healthicon": "Mad Bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		181,
+		0
+	],
+	"camera_position": [
+		-30,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

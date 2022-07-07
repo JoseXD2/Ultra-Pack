@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tails_Doll_Menu.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TailsDoll IDLE0000" x="7515" y="0" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0001" x="0" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0002" x="541" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0003" x="1082" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0004" x="1623" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0005" x="2164" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0006" x="2705" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0007" x="3246" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0008" x="3787" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0009" x="4328" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0010" x="4869" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0011" x="5410" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0012" x="5951" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0013" x="6492" y="540" width="541" height="540"/>
+	<SubTexture name="TailsDoll IDLE0014" x="7033" y="540" width="541" height="540"/>
+</TextureAtlas>

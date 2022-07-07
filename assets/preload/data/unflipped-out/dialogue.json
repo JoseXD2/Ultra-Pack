@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Agh, what happened?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bap boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Uh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Uh, who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "UH!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "What happened here??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh dammit..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I've gone mad."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Again..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Uh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bop beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Boyfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh, sorry if I did something ugly to you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Hey. I see you have a microphone. You want to... sing something? It helps me stay calm."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Boop beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fliqpy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Here we go!"
+		}
+	]
+}

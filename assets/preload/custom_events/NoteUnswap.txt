@@ -1,0 +1,1 @@
+Unswaps the dad's and the player's notes.

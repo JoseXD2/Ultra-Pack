@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i-i see the person who doxxed me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "oh yeah me too.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "huh? is that...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "EXPUNGED?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "expung",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YEAH!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "y u dox bambi like dat doe/"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "expung",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HE OWES ME MONEY!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "expung",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I PAYED 200 DOLLARS WORTH OF CORN FOR HIM, SO I THREATENED TO DOX HIM IF HE DIDN'T PAY ME!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "huh...uhhh makes sense i guess"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bambi you should probably pay expunged here his 200 buckaroos back yo..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i-i dont have it right now.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "WHAT?!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i gave them all to you bf, remember?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "ohh yeah..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "expung",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK THEN BF, HOW ABOUT YOU GIVE ME "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "expung",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "MY"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "expung",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HARD EARNED MONEY BACK"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "EXPUNG",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OK THEN.... GET READY"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh shilladoodle..."
+		}
+	]
+}

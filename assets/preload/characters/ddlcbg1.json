@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				231
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "DDLCbg bg",
+			"indices": []
+		},
+		{
+			"offsets": [
+				520,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "DDLCbg bg"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DDLCbg",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

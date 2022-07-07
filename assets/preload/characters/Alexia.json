@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BAS ECRASE"
+		},
+		{
+			"offsets": [
+				-5,
+				-125
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GAUCHE ECRASE"
+		},
+		{
+			"offsets": [
+				26,
+				-65
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HAUT ECRASE"
+		},
+		{
+			"offsets": [
+				-4,
+				-140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DROITE ECRASE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ATTENTE ECRASE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ALEXIA",
+	"position": [
+		-310,
+		-10
+	],
+	"healthicon": "al",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		110,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

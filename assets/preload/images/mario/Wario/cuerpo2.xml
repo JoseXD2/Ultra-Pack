@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_Wario_Assets_v3_Body2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cuerpo20000" x="0" y="0" width="462" height="228" frameX="0" frameY="0" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20001" x="0" y="0" width="462" height="228" frameX="0" frameY="0" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20002" x="486" y="0" width="460" height="258" frameX="-2" frameY="-1" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20003" x="486" y="0" width="460" height="258" frameX="-2" frameY="-1" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20004" x="0" y="282" width="463" height="274" frameX="0" frameY="-20" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20005" x="0" y="282" width="463" height="274" frameX="0" frameY="-20" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20006" x="487" y="282" width="464" height="251" frameX="0" frameY="-21" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20007" x="487" y="282" width="464" height="251" frameX="0" frameY="-21" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20008" x="0" y="580" width="463" height="226" frameX="0" frameY="-11" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20009" x="0" y="580" width="463" height="226" frameX="0" frameY="-11" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20010" x="487" y="580" width="463" height="220" frameX="0" frameY="-4" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20011" x="487" y="580" width="463" height="220" frameX="0" frameY="-4" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20012" x="0" y="830" width="462" height="229" frameX="0" frameY="0" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20013" x="0" y="830" width="462" height="229" frameX="0" frameY="0" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20014" x="486" y="830" width="460" height="245" frameX="-2" frameY="-1" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20015" x="486" y="830" width="460" height="245" frameX="-2" frameY="-1" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20016" x="0" y="282" width="463" height="274" frameX="0" frameY="-20" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20017" x="0" y="282" width="463" height="274" frameX="0" frameY="-20" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20018" x="0" y="1099" width="464" height="254" frameX="0" frameY="-21" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20019" x="0" y="1099" width="464" height="254" frameX="0" frameY="-21" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20020" x="488" y="1099" width="463" height="239" frameX="0" frameY="-11" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20021" x="488" y="1099" width="463" height="239" frameX="0" frameY="-11" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20022" x="0" y="1377" width="463" height="227" frameX="0" frameY="-4" frameWidth="464" frameHeight="294"/>
+	<SubTexture name="cuerpo20023" x="0" y="1377" width="463" height="227" frameX="0" frameY="-4" frameWidth="464" frameHeight="294"/>
+</TextureAtlas>

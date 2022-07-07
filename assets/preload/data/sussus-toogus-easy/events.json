@@ -1,0 +1,889 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "toogus",
+		"player1": "bf",
+		"player2": "crewmate",
+		"player3": null,
+		"events": [
+			[
+				37600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				39200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				42400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				45600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				46400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				47200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				48800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				49600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				50400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				52000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				53600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				55200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				56800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				58400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				60800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				61600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				63200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				77600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				80800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				84800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				85600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				87200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				118400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				127600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				128800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				130400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				132800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				133600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				135200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				136000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				137600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				138400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				140000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				140800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				142400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				143200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				144800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				145600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				147200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				148000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				149600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				150400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				151200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				152800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Sussus-Toogus"
+	}
+}

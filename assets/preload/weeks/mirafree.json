@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Sussus toogus",
+			"crewmate",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Lights down",
+			"greenimpostor",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Reactor",
+			"greenimpostor",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Ejected",
+			"parasite",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"black",
+		"impostor3",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}

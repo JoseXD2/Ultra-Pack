@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "atsuisland",
+		"player1": "bf",
+		"player2": "ga",
+		"player3": null,
+		"events": [
+			[
+				34071.4285714286,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"dad"
+					]
+				]
+			],
+			[
+				61714.2857142858,
+				[
+					[
+						"Set CamZoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				73714.2857142858,
+				[
+					[
+						"Set CamZoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				73714.2857142858,
+				[
+					[
+						"Play Animation",
+						"coolboy",
+						"dad"
+					]
+				]
+			],
+			[
+				73821.4285714286,
+				[
+					[
+						"Set CamZoom",
+						"0.7",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": null,
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Unleashed"
+	}
+}

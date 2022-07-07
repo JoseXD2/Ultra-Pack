@@ -1,0 +1,10 @@
+{
+	"idle_anim": "TailsDoll IDLE",
+	"image": "Tails_Doll_Menu",
+	"position": [
+		190,
+		90
+	],
+	"scale": 0.9,
+	"confirm_anim": "M Dad Idle"
+}

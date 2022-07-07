@@ -1,0 +1,180 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		100
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-111
+			],
+			"idle_offsets": [
+				-1,
+				-111
+			],
+			"loop_name": "BF LOOP",
+			"idle_name": "BF0"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "BF EXCITED LOOP",
+			"idle_name": "BF EXCITED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF PISSED LOOP",
+			"idle_name": "BF PISSED0"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF SHOCK LOOP",
+			"idle_name": "BF SHOCK0"
+		},
+		{
+			"loop_name": "boyfriend shocked",
+			"idle_offsets": [
+				0,
+				-1
+			],
+			"idle_name": "BF0",
+			"anim": "shock",
+			"loop_offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"loop_name": "hahha homosexua",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF0",
+			"anim": "haha hom",
+			"loop_offsets": [
+				0,
+				7
+			]
+		},
+		{
+			"loop_name": "boyfriend very angry probably",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF0",
+			"anim": "angy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "boyfriend stupid",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF0",
+			"anim": "dumb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "boyfriend phase",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF0",
+			"anim": "phase",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "boyfriend neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF0",
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "boyfriend mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF0",
+			"anim": "mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "*crys* why...",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF0",
+			"anim": "cri",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "boyfriend happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF0",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bf2_dialogue"
+}

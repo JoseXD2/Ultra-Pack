@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1066,
+				278
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bandu Car honk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1105,
+				401
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bandu Car honk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1227,
+				430
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bandu Car honk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1160,
+				211
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bandu Car honk",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1210,
+				380
+			],
+			"anim": "idle",
+			"fps": 32,
+			"name": "Bandu Car honk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bandu Car Honk",
+	"position": [
+		-160,
+		0
+	],
+	"healthicon": "car",
+	"flip_x": false,
+	"healthbar_colors": [
+		24,
+		175,
+		11
+	],
+	"camera_position": [
+		-1020,
+		-310
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

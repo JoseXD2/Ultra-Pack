@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "dead",
+		"player1": "shadow2",
+		"player2": "knuckles",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"high-shovel",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "no gf lol",
+		"bpm": 152,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "High-Shovel"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"storyName": "Moonlight",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "EXE2",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Tails Doll",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"sunshine",
+			"tailsdoll",
+			[
+				200,
+				173,
+				35
+			]
+		]
+	],
+	"weekName": "Shine"
+}

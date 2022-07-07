@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-434,
+				-351
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Y Idle"
+		},
+		{
+			"offsets": [
+				-411,
+				-346
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Y Left"
+		},
+		{
+			"offsets": [
+				-394,
+				-371
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Y Down"
+		},
+		{
+			"offsets": [
+				-334,
+				-311
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Y Up"
+		},
+		{
+			"offsets": [
+				-430,
+				-354
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Y Right"
+		},
+		{
+			"offsets": [
+				-407,
+				-349
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				15,
+				16,
+				17
+			],
+			"name": "Y Left"
+		},
+		{
+			"offsets": [
+				-349,
+				-320
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				15,
+				16,
+				17
+			],
+			"name": "Y Up"
+		},
+		{
+			"offsets": [
+				-429,
+				-356
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17
+			],
+			"name": "Y Right"
+		},
+		{
+			"offsets": [
+				-392,
+				-373
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				15,
+				16
+			],
+			"name": "Y Down"
+		},
+		{
+			"offsets": [
+				-361,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh1",
+			"indices": [],
+			"name": "Y Laugh Down"
+		},
+		{
+			"offsets": [
+				-443,
+				-329
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh2",
+			"indices": [],
+			"name": "Y Laugh Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yuri_TT_Sheet",
+	"position": [
+		-100,
+		-80
+	],
+	"healthicon": "yuri",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		125,
+		175
+	],
+	"camera_position": [
+		40,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

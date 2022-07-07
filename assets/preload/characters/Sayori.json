@@ -1,0 +1,137 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-261,
+				-338
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "S Idle"
+		},
+		{
+			"offsets": [
+				-202,
+				-343
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "S Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-366,
+				-391
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "S Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-317,
+				-194
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "S Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-366,
+				-359
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "S Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				49,
+				-22
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				15,
+				16,
+				17
+			],
+			"name": "S Left"
+		},
+		{
+			"offsets": [
+				-96,
+				138
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				15,
+				16,
+				17
+			],
+			"name": "S Up"
+		},
+		{
+			"offsets": [
+				-192,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17
+			],
+			"name": "S Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-193,
+				-79
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "S Down",
+			"indices": [
+				15,
+				16
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sayori_TT_Sheet",
+	"position": [
+		-100,
+		-140
+	],
+	"healthicon": "sayori",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		185,
+		175
+	],
+	"camera_position": [
+		120,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 2.3
+}

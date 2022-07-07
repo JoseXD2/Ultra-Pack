@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				430,
+				-20
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Expunged idle"
+		},
+		{
+			"offsets": [
+				350,
+				-39
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Expunged right"
+		},
+		{
+			"offsets": [
+				550,
+				-13
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Expunged left"
+		},
+		{
+			"offsets": [
+				466,
+				13
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Expunged up"
+		},
+		{
+			"offsets": [
+				500,
+				-81
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Expunged down"
+		},
+		{
+			"offsets": [
+				482,
+				5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "holy",
+			"indices": [],
+			"name": "Expunged holy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Expunged",
+	"position": [
+		140,
+		120
+	],
+	"healthicon": "expunged",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		140,
+		62
+	],
+	"camera_position": [
+		-510,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

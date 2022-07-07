@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Unleashed", "garnnie", [254, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+	"difficulties": "easy, normal, hard",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "garnie",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

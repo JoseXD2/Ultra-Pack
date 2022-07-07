@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="demoman_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="demo down0000" x="0" y="2144" width="591" height="715"/>
+	<SubTexture name="demo down0001" x="0" y="2859" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0002" x="2238" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0003" x="2826" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0004" x="2826" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0005" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0006" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0007" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0008" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0009" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0010" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0011" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0012" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0013" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0014" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0015" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0016" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo down0017" x="3414" y="0" width="588" height="715" frameX="0" frameY="0" frameWidth="591" frameHeight="715"/>
+	<SubTexture name="demo idle0000" x="2477" y="1430" width="539" height="714"/>
+	<SubTexture name="demo idle0001" x="2477" y="1430" width="539" height="714"/>
+	<SubTexture name="demo idle0002" x="3016" y="1430" width="539" height="714"/>
+	<SubTexture name="demo idle0003" x="3016" y="1430" width="539" height="714"/>
+	<SubTexture name="demo idle0004" x="2818" y="2144" width="539" height="714"/>
+	<SubTexture name="demo idle0005" x="2818" y="2144" width="539" height="714"/>
+	<SubTexture name="demo idle0006" x="3357" y="2144" width="539" height="714"/>
+	<SubTexture name="demo idle0007" x="3357" y="2144" width="539" height="714"/>
+	<SubTexture name="demo idle0008" x="588" y="2859" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo idle0009" x="588" y="2859" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo idle0010" x="1126" y="2858" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo idle0011" x="1126" y="2858" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo idle0012" x="1664" y="2867" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo idle0013" x="1664" y="2867" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo idle0014" x="2202" y="2867" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo idle0015" x="2202" y="2867" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo idle0016" x="2740" y="2858" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo idle0017" x="2740" y="2858" width="538" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714"/>
+	<SubTexture name="demo left0000" x="3278" y="2858" width="520" height="714" frameX="-79" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0001" x="591" y="2144" width="582" height="714" frameX="0" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0002" x="808" y="1429" width="563" height="715" frameX="-14" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0003" x="1371" y="1429" width="556" height="715" frameX="-19" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0004" x="1927" y="1430" width="550" height="714" frameX="-24" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0005" x="1927" y="1430" width="550" height="714" frameX="-24" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0006" x="2271" y="2144" width="547" height="714" frameX="-26" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0007" x="2271" y="2144" width="547" height="714" frameX="-26" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0008" x="2271" y="2144" width="547" height="714" frameX="-26" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0009" x="2271" y="2144" width="547" height="714" frameX="-26" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0010" x="2271" y="2144" width="547" height="714" frameX="-26" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0011" x="2271" y="2144" width="547" height="714" frameX="-26" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0012" x="2271" y="2144" width="547" height="714" frameX="-26" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0013" x="2271" y="2144" width="547" height="714" frameX="-26" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo left0014" x="2271" y="2144" width="547" height="714" frameX="-26" frameY="0" frameWidth="599" frameHeight="715"/>
+	<SubTexture name="demo right0000" x="1621" y="0" width="617" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0001" x="0" y="0" width="834" height="715"/>
+	<SubTexture name="demo right0002" x="0" y="715" width="808" height="715" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0003" x="808" y="715" width="763" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0004" x="834" y="0" width="787" height="715" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0005" x="834" y="0" width="787" height="715" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0006" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0007" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0008" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0009" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0010" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0011" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0012" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0013" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0014" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo right0015" x="0" y="1430" width="783" height="714" frameX="0" frameY="0" frameWidth="834" frameHeight="715"/>
+	<SubTexture name="demo up0000" x="1729" y="2144" width="542" height="723" frameX="0" frameY="0" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0001" x="3237" y="715" width="552" height="715" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0002" x="2127" y="715" width="555" height="715" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0003" x="2682" y="715" width="555" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0004" x="1173" y="2144" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0005" x="1173" y="2144" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0006" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0007" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0008" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0009" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0010" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0011" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0012" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0013" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0014" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+	<SubTexture name="demo up0015" x="1571" y="715" width="556" height="714" frameX="0" frameY="-8" frameWidth="556" frameHeight="723"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="scared_neo_bf.png">
+<SubTexture name="BF NOTE LEFT0000" x="414" y="0" width="414" height="346" rotated="true"  frameX="-314" frameY="-280" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE LEFT0001" x="0" y="0" width="414" height="346" rotated="true"  frameX="-315" frameY="-280" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE DOWN0000" x="1209" y="0" width="381" height="368" rotated="true"  frameX="-316" frameY="-310" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE DOWN0001" x="828" y="0" width="381" height="368" rotated="true"  frameX="-316" frameY="-310" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE UP0000" x="1590" y="0" width="459" height="376" rotated="true"  frameX="-331" frameY="-236" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE UP0001" x="2049" y="0" width="445" height="383" rotated="true"  frameX="-322" frameY="-249" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance0000" x="0" y="346"  width="413" height="398" frameX="-272" frameY="-294" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance0001" x="2494" y="0"  width="414" height="398" frameX="-271" frameY="-294" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance0002" x="825" y="368"  width="416" height="399" frameX="-270" frameY="-293" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance0003" x="1241" y="376"  width="416" height="399" frameX="-270" frameY="-292" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF idle dance0004" x="413" y="346"  width="412" height="402" frameX="-273" frameY="-288" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE RIGHT0000" x="2066" y="383"  width="409" height="407" frameX="-333" frameY="-286" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="BF NOTE RIGHT0001" x="1657" y="383"  width="409" height="407" frameX="-332" frameY="-285" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>

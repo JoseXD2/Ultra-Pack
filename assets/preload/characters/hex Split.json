@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 10,
+			"name": "SONIClaugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 6,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-30
+			],
+			"anim": "singDOWN-loop",
+			"fps": 6,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 0,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 0,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 18,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				51
+			],
+			"anim": "singUP",
+			"fps": 4,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-11,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 4,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 12,
+			"name": "Dad idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hex Split",
+	"position": [
+		-110,
+		0
+	],
+	"healthicon": "hex",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		235,
+		235
+	],
+	"camera_position": [
+		-130,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

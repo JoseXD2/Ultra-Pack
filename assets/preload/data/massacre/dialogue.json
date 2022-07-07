@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "UAGH! enough with this shit!",
+			"boxState": "normal",
+			"portrait": "fliqpy",
+			"speed": 0.03
+		},
+		{
+			"expression": "angry",
+			"text": "I'm sick of you I'll make you die of all kinds of things.",
+			"boxState": "normal",
+			"portrait": "fliqpy",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "Burned, Electrocuted, Drowned, IN ALL POSSIBLE WAYS!!",
+			"boxState": "normal",
+			"portrait": "fliqpy",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "And you better prepare yourself.",
+			"boxState": "normal",
+			"portrait": "fliqpy",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "Because this time...",
+			"boxState": "normal",
+			"portrait": "fliqpy",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "I won't have mercy on you.",
+			"boxState": "normal",
+			"portrait": "fliqpy",
+			"speed": 0.05
+		},
+		{
+			"expression": "scared",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "Yeah...",
+			"boxState": "normal",
+			"portrait": "fliqpy",
+			"speed": 0.05
+		}
+	]
+}

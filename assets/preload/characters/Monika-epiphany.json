@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				344,
+				518
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Big Monika Idle"
+		},
+		{
+			"offsets": [
+				344,
+				506
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Big Monika Left"
+		},
+		{
+			"offsets": [
+				343,
+				478
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Big Monika Down"
+		},
+		{
+			"offsets": [
+				344,
+				529
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Big Monika Up"
+		},
+		{
+			"offsets": [
+				341,
+				517
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Big Monika Right"
+		},
+		{
+			"offsets": [
+				499,
+				552
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deleted",
+			"loop": false,
+			"name": "Big Monika Last Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/big_monikia_base",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bigmonika",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		195,
+		60
+	],
+	"camera_position": [
+		-390,
+		-440
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

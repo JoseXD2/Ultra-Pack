@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="them.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="them0000" x="0" y="0" width="1346" height="359" frameX="0" frameY="-45" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0001" x="0" y="0" width="1346" height="359" frameX="0" frameY="-45" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0002" x="0" y="359" width="1331" height="381" frameX="-7" frameY="-23" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0003" x="0" y="359" width="1331" height="381" frameX="-7" frameY="-23" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0004" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0005" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0006" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0007" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0008" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0009" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0010" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0011" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0012" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+	<SubTexture name="them0013" x="0" y="740" width="1306" height="403" frameX="-20" frameY="0" frameWidth="1346" frameHeight="404"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-337
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hypno Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				227
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hypno Up Finished",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-118
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hypno Right Finished",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-41
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hypno Left final",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				12
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Hypno2 Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hypno Phase 2 Sheet",
+	"position": [
+		-120,
+		-470
+	],
+	"healthicon": "hypno2",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		223,
+		68
+	],
+	"camera_position": [
+		120,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

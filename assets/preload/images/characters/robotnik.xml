@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="robotnik.png(S.G.YT)">
+<SubTexture name="robotnik idle0000" x="22" y="61" width="734" height="707" frameX="0" frameY="-40" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik idle0001" x="811" y="58" width="734" height="706" frameX="0" frameY="-40" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik idle0002" x="1595" y="38" width="731" height="734" frameX="0" frameY="-40" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik idle0003" x="2418" y="14" width="731" height="758" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik idle0004" x="2418" y="14" width="731" height="758" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik idle0005" x="2418" y="14" width="731" height="758" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik idle0006" x="2418" y="14" width="731" height="758" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik left0000" x="7" y="815" width="764" height="756" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik left0001" x="7" y="815" width="764" height="756" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik left0002" x="843" y="837" width="753" height="762" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik right0000" x="2507" y="832" width="769" height="773" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik right0001" x="2507" y="832" width="769" height="773" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik right0002" x="19" y="1618" width="762" height="778" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik down0000" x="1714" y="1671" width="777" height="722" frameX="0" frameY="-80" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik down0001" x="1714" y="1671" width="777" height="722" frameX="0" frameY="-80" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik down0002" x="2524" y="1670" width="768" height="734" frameX="0" frameY="-80" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik up0000" x="13" y="2436" width="757" height="848" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik up0001" x="13" y="2436" width="757" height="848" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik up0002" x="790" y="2430" width="759" height="833" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik 1miss0000" x="1683" y="834" width="772" height="766" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik 1miss0001" x="1683" y="834" width="772" height="766" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik 4miss0000" x="867" y="1609" width="787" height="776" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik 4miss0001" x="867" y="1609" width="787" height="776" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik 2miss0000" x="2426" y="2530" width="795" height="734" frameX="0" frameY="-80" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik 2miss0001" x="2426" y="2530" width="795" height="734" frameX="0" frameY="-80" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik 3miss0000" x="1577" y="2405" width="772" height="861" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+<SubTexture name="robotnik 3miss0001" x="1577" y="2405" width="772" height="861" frameX="0" frameY="0" frameWidth="1044" frameHeight="954" />
+</TextureAtlas>

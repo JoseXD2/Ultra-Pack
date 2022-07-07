@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Garnnie idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Garnnie Sing Note DOWN alt"
+		},
+		{
+			"offsets": [
+				8,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Garnnie Simg Note RIGHT alt"
+		},
+		{
+			"offsets": [
+				0,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Garnnie Sing note UP alt"
+		},
+		{
+			"offsets": [
+				14,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Garnnie sing note LET alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Garnnie Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Garnnie Simg Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Garnnie Simg note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Garnnie simg note LET",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "coolboy",
+			"fps": 24,
+			"name": "Garnnie sing cool boy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-21
+			],
+			"anim": "cough",
+			"fps": 24,
+			"name": "Garnnie Sing cough",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Garnnie_assets",
+	"position": [
+		-40,
+		50
+	],
+	"healthicon": "garnnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

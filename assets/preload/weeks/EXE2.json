@@ -1,0 +1,30 @@
+{
+	"storyName": "Puppeteer",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "EXE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"UNKOWN",
+		"Gold",
+		""
+	],
+	"songs": [
+		[
+			"epiphany",
+			"gold",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "Lost"
+}

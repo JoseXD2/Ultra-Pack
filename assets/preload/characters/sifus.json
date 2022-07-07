@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				-12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "STARE idle"
+		},
+		{
+			"offsets": [
+				65,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "STARE down"
+		},
+		{
+			"offsets": [
+				20,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "STARE up"
+		},
+		{
+			"offsets": [
+				173,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "STARE left"
+		},
+		{
+			"offsets": [
+				10,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "STARE right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/disabled/stare",
+	"position": [
+		-30,
+		350
+	],
+	"healthicon": "sfu2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-207,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

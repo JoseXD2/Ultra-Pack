@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="staticBACKGROUND2.png">
+<!-- Created with Adobe Animate version 21.0.3.38773 -->
+<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menuSTATICNEW instance 10000" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW instance 10001" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW instance 10002" x="1295" y="5" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW instance 10003" x="1295" y="5" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW instance 10004" x="1295" y="5" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW instance 10005" x="1295" y="5" width="1280" height="720"/>
+	<SubTexture name="menuSTATICNEW instance 10006" x="1295" y="5" width="1280" height="720"/>
+</TextureAtlas>

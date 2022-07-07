@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF_Left"
+		},
+		{
+			"offsets": [
+				17,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF_Down"
+		},
+		{
+			"offsets": [
+				68,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF_Up"
+		},
+		{
+			"offsets": [
+				80,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF_Right"
+		},
+		{
+			"offsets": [
+				55,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bolas",
+			"indices": [],
+			"name": "BF_Ball_Throw"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ba-bf",
+	"position": [
+		-400,
+		580
+	],
+	"healthicon": "burried",
+	"flip_x": true,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		-480,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 6.00000000000003
+}

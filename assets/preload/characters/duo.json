@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				162,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "al1"
+		},
+		{
+			"offsets": [
+				167,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "alt2"
+		},
+		{
+			"offsets": [
+				181,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "alt3"
+		},
+		{
+			"offsets": [
+				165,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "alt4"
+		},
+		{
+			"offsets": [
+				170,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "alt5"
+		},
+		{
+			"offsets": [
+				269,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tomjer_up"
+		},
+		{
+			"offsets": [
+				402,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tomjer_left"
+		},
+		{
+			"offsets": [
+				245,
+				283
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tomjer_right"
+		},
+		{
+			"offsets": [
+				185,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tomjer_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duo",
+	"position": [
+		377,
+		240
+	],
+	"healthicon": "duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-215,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

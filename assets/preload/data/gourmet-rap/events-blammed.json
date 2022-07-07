@@ -1,0 +1,799 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "forest",
+		"player1": "bf",
+		"player2": "kirbo",
+		"player3": null,
+		"events": [
+			[
+				21525,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				21900,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22200,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				22800,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				23100,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				23400,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				23700,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				24300,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				24600,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				24900,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				25500,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				25800,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				26400,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				26475,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				31125,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				31500,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				31800,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				32100,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				32400,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				32700,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				33000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				33300,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				33900,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				34200,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				34500,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				35100,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				35400,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				36075,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				81525,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				81900,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82200,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				82950,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				83100,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				83400,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				83700,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				84300,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				84600,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				84900,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				85350,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				85500,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				85650,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				85800,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				86475,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91125,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91500,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91800,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				92100,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				92250,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				92400,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				92700,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				93300,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				93900,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				94200,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				94500,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				94650,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				94800,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				95100,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95250,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95400,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				96075,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-kirbo",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "gourmet-rap"
+	}
+}

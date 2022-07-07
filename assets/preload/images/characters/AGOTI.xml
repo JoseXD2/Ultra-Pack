@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AGOTI.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Agoti_Down0000" x="0" y="0" width="603" height="655"/>
+	<SubTexture name="Agoti_Down0001" x="603" y="0" width="603" height="655"/>
+	<SubTexture name="Agoti_Down0002" x="603" y="0" width="603" height="655"/>
+	<SubTexture name="Agoti_Down0003"   x="1206" y="0" width="603" height="655"/>
+	<SubTexture name="Agoti_Down0004" x="1206" y="0" width="603" height="655"/>
+	<SubTexture name="Agoti_Idle0000" x="1806" y="0" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0001" x="1806" y="0" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0002" x="2274" y="0" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0003" x="2274" y="0" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0004" x="2740" y="0" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0005" x="2740" y="0" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0006" x="3201" y="0" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0007" x="3201" y="0" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0008" x="0" y="855" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0009" x="0" y="855" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0010" x="0" y="855" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0011" x="0" y="855" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0012" x="0" y="855" width="466" height="851"/>
+	<SubTexture name="Agoti_Idle0013" x="0" y="855" width="466" height="851"/>
+	<SubTexture name="Agoti_Left0000" x="466" y="855" width="809" height="882"/>
+	<SubTexture name="Agoti_Left0001" x="1275" y="855" width="809" height="882"/>
+	<SubTexture name="Agoti_Left0002" x="1275" y="855" width="809" height="882"/>
+	<SubTexture name="Agoti_Left0003" x="2085" y="855" width="809" height="882"/>
+	<SubTexture name="Agoti_Left0004" x="2085" y="855" width="809" height="882"/>
+	<SubTexture name="Agoti_Right0000" x="2937" y="908" width="794" height="805"/>
+	<SubTexture name="Agoti_Right0001" x="0" y="1850" width="794" height="805"/>
+	<SubTexture name="Agoti_Right0002" x="794" y="1850" width="794" height="805"/>
+	<SubTexture name="Agoti_Up0000" x="1790" y="1864" width="511" height="927"/>
+	<SubTexture name="Agoti_Up0001" x="2465" y="1846" width="511" height="927"/>
+	<SubTexture name="Agoti_Up0002" x="2465" y="1846" width="511" height="927"/>
+</TextureAtlas>

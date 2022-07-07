@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Whitroll", "carol", [146, 113, 253]],
+		["Perfume", "carol", [146, 113, 253]],
+		["Heartbass", "carol", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "carolxwhitty",
+
+	"storyName": "The Date Week",
+	"weekBefore": "tutorial",
+	"weekName": "Date Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

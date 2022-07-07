@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dangHeCorrupted.png(S.G.YT)">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CorruptedBF Down0000" x="27" y="612" width="438" height="484"/>
+	<SubTexture name="CorruptedBF Down0001" x="27" y="612" width="438" height="484"/>
+	<SubTexture name="CorruptedBF Down0002" x="27" y="612" width="438" height="484"/>
+	<SubTexture name="CorruptedBF Down0003" x="27" y="612" width="438" height="484"/>
+	<SubTexture name="CorruptedBF Down0004" x="27" y="612" width="438" height="484"/>
+	<SubTexture name="CorruptedBF Down0005" x="499" y="602" width="431" height="489"/>
+	<SubTexture name="CorruptedBF Down0006" x="499" y="602" width="431" height="489"/>
+	<SubTexture name="CorruptedBF Down0007" x="499" y="602" width="431" height="489"/>
+	<SubTexture name="CorruptedBF Down0008" x="499" y="602" width="431" height="489"/>
+	<SubTexture name="CorruptedBF Down0009" x="499" y="602" width="431" height="489"/>
+	<SubTexture name="CorruptedBF Down Miss0000" x="980" y="593" width="420" height="491"/>
+	<SubTexture name="CorruptedBF Down Miss0001" x="980" y="593" width="420" height="491"/>
+	<SubTexture name="CorruptedBF Down Miss0002" x="1462" y="589" width="432" height="488"/>
+	<SubTexture name="CorruptedBF Down Miss0003" x="1462" y="589" width="432" height="488"/>
+	<SubTexture name="CorruptedBF Idle0000" x="18" y="37" width="442" height="496"/>
+	<SubTexture name="CorruptedBF Idle0001" x="18" y="37" width="442" height="496"/>
+	<SubTexture name="CorruptedBF Idle0002" x="511" y="37" width="428" height="499"/>
+	<SubTexture name="CorruptedBF Idle0003" x="511" y="37" width="428" height="499"/>
+	<SubTexture name="CorruptedBF Idle0004" x="1006" y="23" width="428" height="510"/>
+	<SubTexture name="CorruptedBF Idle0005" x="1006" y="23" width="328" height="510"/>
+	<SubTexture name="CorruptedBF Idle0006" x="1465" y="30" width="424" height="511"/>
+	<SubTexture name="CorruptedBF Idle0007" x="1465" y="30" width="424" height="511"/>
+	<SubTexture name="CorruptedBF Idle0008" x="1938" y="20" width="422" height="512"/>
+	<SubTexture name="CorruptedBF Idle0009" x="1938" y="20" width="422" height="512"/>
+	<SubTexture name="CorruptedBF Idle0010" x="1938" y="20" width="422" height="512"/>
+	<SubTexture name="CorruptedBF Idle0011" x="1938" y="20" width="422" height="512"/>
+	<SubTexture name="CorruptedBF Idle0012" x="1938" y="20" width="422" height="512"/>
+	<SubTexture name="CorruptedBF Idle0013" x="1938" y="20" width="422" height="512"/>
+	<SubTexture name="CorruptedBF Left0000" x="1959" y="554" width="378" height="521"/>
+	<SubTexture name="CorruptedBF Left0001" x="1959" y="554" width="378" height="521"/>
+	<SubTexture name="CorruptedBF Left0002" x="1959" y="554" width="378" height="521"/>
+	<SubTexture name="CorruptedBF Left0003" x="1959" y="554" width="378" height="521"/>
+	<SubTexture name="CorruptedBF Left0004" x="1959" y="554" width="378" height="521"/>
+	<SubTexture name="CorruptedBF Left0005" x="24" y="1150" width="388" height="519"/>
+	<SubTexture name="CorruptedBF Left0006" x="24" y="1150" width="388" height="519"/>
+	<SubTexture name="CorruptedBF Left0007" x="24" y="1150" width="388" height="519"/>
+	<SubTexture name="CorruptedBF Left0008" x="24" y="1150" width="388" height="519"/>
+	<SubTexture name="CorruptedBF Left0009" x="24" y="1150" width="388" height="519"/>
+	<SubTexture name="CorruptedBF Left Miss0000" x="494" y="1140" width="384" height="520"/>
+	<SubTexture name="CorruptedBF Left Miss0001" x="494" y="1140" width="384" height="520"/>
+	<SubTexture name="CorruptedBF Left Miss0002" x="952" y="1139" width="383" height="519"/>
+	<SubTexture name="CorruptedBF Left Miss0003" x="952" y="1139" width="383" height="519"/>
+	<SubTexture name="CorruptedBF Right0000" x="1415" y="1147" width="454" height="506"/>
+	<SubTexture name="CorruptedBF Right0001" x="1415" y="1147" width="454" height="506"/>
+	<SubTexture name="CorruptedBF Right0002" x="1415" y="1147" width="454" height="506"/>
+	<SubTexture name="CorruptedBF Right0003" x="1415" y="1147" width="454" height="506"/>
+	<SubTexture name="CorruptedBF Right0004" x="1415" y="1147" width="454" height="506"/>
+	<SubTexture name="CorruptedBF Right0005" x="1915" y="1140" width="445" height="507"/>
+	<SubTexture name="CorruptedBF Right0006" x="1915" y="1140" width="445" height="507"/>
+	<SubTexture name="CorruptedBF Right0007" x="1915" y="1140" width="445" height="507"/>
+	<SubTexture name="CorruptedBF Right0008" x="1915" y="1140" width="445" height="507"/>
+	<SubTexture name="CorruptedBF Right0009" x="1915" y="1140" width="445" height="507"/>
+	<SubTexture name="CorruptedBF Right Miss0000" x="20" y="1734" width="442" height="506"/>
+	<SubTexture name="CorruptedBF Right Miss0001" x="20" y="1734" width="442" height="506"/>
+	<SubTexture name="CorruptedBF Right Miss0002" x="509" y="1729" width="447" height="504"/>
+	<SubTexture name="CorruptedBF Right Miss0003" x="509" y="1729" width="447" height="504"/>
+	<SubTexture name="CorruptedBF Up0000" x="986" y="1681" width="415" height="549"/>
+	<SubTexture name="CorruptedBF Up0001" x="986" y="1681" width="415" height="549"/>
+	<SubTexture name="CorruptedBF Up0002" x="986" y="1681" width="415" height="549"/>
+	<SubTexture name="CorruptedBF Up0003" x="986" y="1681" width="415" height="549"/>
+	<SubTexture name="CorruptedBF Up0004" x="986" y="1681" width="415" height="549"/>
+	<SubTexture name="CorruptedBF Up0005" x="1429" y="1700" width="424" height="534"/>
+	<SubTexture name="CorruptedBF Up0006" x="1429" y="1700" width="424" height="534"/>
+	<SubTexture name="CorruptedBF Up0007" x="1429" y="1700" width="424" height="534"/>
+	<SubTexture name="CorruptedBF Up0008" x="1429" y="1700" width="424" height="534"/>
+	<SubTexture name="CorruptedBF Up0009" x="1429" y="1700" width="424" height="534"/>
+	<SubTexture name="CorruptedBF Up Miss0000" x="1904" y="1705" width="433" height="526"/>
+	<SubTexture name="CorruptedBF Up Miss0001" x="1904" y="1705" width="433" height="526"/>
+	<SubTexture name="CorruptedBF Up Miss0002" x="2360" y="1712" width="426" height="528"/>
+	<SubTexture name="CorruptedBF Up Miss0003" x="2360" y="1712" width="426" height="528"/>
+</TextureAtlas>

@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Hallucinations", "papyrus", [77, 79, 95]],
+		["Last Hope", "chara", [77, 79, 95]],
+		["Reality Check", "sans-win", [77, 79, 95]],
+		["Wounded Shooting", "pico-dt", [77, 79, 95]]
+	],
+
+	"weekCharacters": [
+		"sans",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"difficulties": "Bad Time",
+	"weekBefore": "none",
+	"weekName": "2bonus",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

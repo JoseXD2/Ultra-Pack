@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "mall2",
+		"player1": "bf",
+		"player2": "parents-christmas",
+		"player3": "nogf",
+		"events": [
+			[
+				89600,
+				[
+					[
+						"Change Character",
+						"1",
+						"parents-evil"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": null,
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Eggnog"
+	}
+}

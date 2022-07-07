@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "yo bambi! wassup?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "wh-what are you doing here...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bambi"
+		},
+		{
+			"expression": "confused",
+			"text": "uhmmm.. im just here to hang out and say hi.. ya know??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "well you shouldn't be here right now....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bambi"
+		},
+		{
+			"expression": "shocked",
+			"text": "uhmmm...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "bit rude much...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "its not safe here.... someone found my ip...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bambi"
+		},
+		{
+			"expression": "confused",
+			"text": "uhhhhmmm...ok and?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "i mean if you think about it... doxxie found my address... ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "and she got arrested in the proccess of rapping, ha!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "still...it isnt safe here right now...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bambi"
+		},
+		{
+			"expression": "excited",
+			"text": "hey, maybe a rap can chill you out!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "gf, hit the chill beat!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "gotcha babe!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

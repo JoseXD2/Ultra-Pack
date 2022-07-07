@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "Faker Stage",
+		"player1": "bf",
+		"player2": "faker-bf",
+		"player3": null,
+		"events": [
+			[
+				112571.428571429,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				117857.142857143,
+				[
+					[
+						"Screen Shake",
+						"10,0.5",
+						"5.05"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "paraguay",
+		"bpm": 105,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Faker"
+	}
+}

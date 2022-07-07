@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-173,
+				-136
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "N Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-365
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "N Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-35,
+				-351
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "N Left",
+			"indices": [
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"offsets": [
+				-200,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "N Down"
+		},
+		{
+			"offsets": [
+				-176,
+				-115
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				15,
+				16,
+				17
+			],
+			"name": "N Down"
+		},
+		{
+			"offsets": [
+				-133,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "N Up"
+		},
+		{
+			"offsets": [
+				-164,
+				-88
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				15,
+				16,
+				17
+			],
+			"name": "N Up"
+		},
+		{
+			"offsets": [
+				-237,
+				-185
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17
+			],
+			"name": "N Right"
+		},
+		{
+			"offsets": [
+				-243,
+				-189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "N Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Natsuki_TT_Sheet",
+	"position": [
+		10,
+		150
+	],
+	"healthicon": "natsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		145,
+		155
+	],
+	"camera_position": [
+		-50,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

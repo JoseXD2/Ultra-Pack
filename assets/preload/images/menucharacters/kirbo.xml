@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kirbo.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kirbo idle0000" x="0" y="0" width="248" height="182"/>
+	<SubTexture name="kirbo idle0001" x="0" y="0" width="248" height="182"/>
+	<SubTexture name="kirbo idle0002" x="269" y="0" width="248" height="182"/>
+	<SubTexture name="kirbo idle0003" x="269" y="0" width="248" height="182"/>
+	<SubTexture name="kirbo idle0004" x="538" y="0" width="248" height="182"/>
+	<SubTexture name="kirbo idle0005" x="538" y="0" width="248" height="182"/>
+	<SubTexture name="kirbo idle0006" x="0" y="203" width="248" height="182"/>
+	<SubTexture name="kirbo idle0007" x="0" y="203" width="248" height="182"/>
+	<SubTexture name="kirbo idle0008" x="0" y="203" width="248" height="182"/>
+	<SubTexture name="kirbo idle0009" x="0" y="203" width="248" height="182"/>
+	<SubTexture name="kirbo idle0010" x="0" y="203" width="248" height="182"/>
+	<SubTexture name="kirbo idle0011" x="0" y="203" width="248" height="182"/>
+	<SubTexture name="kirbo idle0012" x="0" y="203" width="248" height="182"/>
+	<SubTexture name="kirbo idle0013" x="0" y="203" width="248" height="182"/>
+</TextureAtlas>

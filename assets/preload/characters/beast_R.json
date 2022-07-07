@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-219,
+				-280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Beast_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-187,
+				-374
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Beast_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-504
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Beast_LAUGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-202,
+				-205
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Beast_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				182,
+				-337
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Beast_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-372
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Beast_LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Beast",
+	"position": [
+		-110,
+		-620
+	],
+	"healthicon": "purplefuck",
+	"flip_x": true,
+	"healthbar_colors": [
+		42,
+		5,
+		118
+	],
+	"camera_position": [
+		-200,
+		490
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

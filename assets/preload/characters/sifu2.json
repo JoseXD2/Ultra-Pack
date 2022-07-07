@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DECAY 2 idle"
+		},
+		{
+			"offsets": [
+				1,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DECAY 2 down"
+		},
+		{
+			"offsets": [
+				2,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DECAY 2 up"
+		},
+		{
+			"offsets": [
+				6,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DECAY 2 left"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DECAY 2 right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/disabled/decay2",
+	"position": [
+		-10,
+		350
+	],
+	"healthicon": "sfu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-207,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

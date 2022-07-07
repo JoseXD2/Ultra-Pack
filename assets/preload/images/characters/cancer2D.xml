@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cancer2D.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cancer0000" x="0" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0001" x="0" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0002" x="1339" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0003" x="1339" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0004" x="2678" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0005" x="2678" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0006" x="4017" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0007" x="4017" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0008" x="5356" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0009" x="5356" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0010" x="6695" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0011" x="6695" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0012" x="6695" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer0013" x="6695" y="0" width="1339" height="1326"/>
+	<SubTexture name="cancer_down0000" x="0" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_down0001" x="0" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_down0002" x="1339" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_down0003" x="1339" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_down0004" x="2678" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_down0005" x="2678" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_down0006" x="4017" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_down0007" x="4017" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_down0008" x="5356" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_left0000" x="6695" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_left0001" x="6695" y="1326" width="1339" height="1326"/>
+	<SubTexture name="cancer_left0002" x="0" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_left0003" x="0" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_left0004" x="1339" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_left0005" x="1339" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_left0006" x="2678" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_left0007" x="2678" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_left0008" x="4017" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_right0000" x="5356" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_right0001" x="5356" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_right0002" x="6695" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_right0003" x="6695" y="2652" width="1339" height="1326"/>
+	<SubTexture name="cancer_right0004" x="0" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_right0005" x="0" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_right0006" x="1339" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_right0007" x="1339" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_right0008" x="2678" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0000" x="4017" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0001" x="4017" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0002" x="5356" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0003" x="5356" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0004" x="6695" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0005" x="6695" y="3978" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0006" x="0" y="5304" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0007" x="0" y="5304" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0008" x="1339" y="5304" width="1339" height="1326"/>
+	<SubTexture name="cancer_up0009" x="1339" y="5304" width="1339" height="1326"/>
+</TextureAtlas>

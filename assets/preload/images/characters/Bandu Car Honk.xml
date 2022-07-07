@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bandu Car Honk.png"><SubTexture name="Bandu Car honk0000" x="0" y="0" width="1394" height="673" frameX="-562" frameY="-462" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car honk0001" x="0" y="673" width="1394" height="673" frameX="-562" frameY="-462" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car honk0002" x="1394" y="0" width="1394" height="673" frameX="-562" frameY="-462" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car honk0003" x="1394" y="0" width="1394" height="673" frameX="-567" frameY="-462" frameWidth="2296" frameHeight="1272" />
+<SubTexture name="Bandu Car honk0004" x="1394" y="0" width="1394" height="673" frameX="-567" frameY="-462" frameWidth="2296" frameHeight="1272" />
+</TextureAtlas>

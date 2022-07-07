@@ -1,0 +1,10 @@
+{
+	"idle_anim": "impostor3 idle",
+	"image": "impostor3",
+	"position": [
+		500,
+		40
+	],
+	"scale": 1.1,
+	"confirm_anim": "impostor3 hey"
+}

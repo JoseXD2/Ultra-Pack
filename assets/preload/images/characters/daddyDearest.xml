@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="father.png">
+  <SubTexture name="Dad Sing Note DOWN0000" x="0" y="0"  width="506" height="768" frameX="-289" frameY="-136" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad Sing Note DOWN0001" x="506" y="0"  width="500" height="774" frameX="-289" frameY="-129" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad idle dance0000" x="2714" y="0"  width="423" height="807" frameX="-289" frameY="-97" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad idle dance0001" x="1433" y="0"  width="431" height="798" frameX="-289" frameY="-106" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad idle dance0002" x="1006" y="0"  width="427" height="797" frameX="-289" frameY="-106" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad idle dance0003" x="1864" y="0"  width="427" height="798" frameX="-289" frameY="-105" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad idle dance0004" x="2291" y="0"  width="423" height="807" frameX="-290" frameY="-98" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad Sing Note RIGHT0000" x="414" y="774"  width="402" height="817" frameX="-290" frameY="-87" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad Sing Note RIGHT0001" x="0" y="768"  width="414" height="817" frameX="-289" frameY="-87" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad Sing Note LEFT0000" x="816" y="797"  width="471" height="832" frameX="-289" frameY="-72" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad Sing Note LEFT0001" x="1287" y="798"  width="464" height="833" frameX="-285" frameY="-71" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad Sing Note UP0000" x="2169" y="807"  width="418" height="859" frameX="-286" frameY="-45" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="Dad Sing Note UP0001" x="1751" y="798"  width="418" height="850" frameX="-288" frameY="-54" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>

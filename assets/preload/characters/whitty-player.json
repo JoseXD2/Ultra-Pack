@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				21,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				-58,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				61
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Miss Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-40
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Miss Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				30
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Miss Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-12
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Miss Sing Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhittySprites",
+	"position": [
+		-20,
+		0
+	],
+	"healthicon": "whitty",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		46
+	],
+	"camera_position": [
+		50,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

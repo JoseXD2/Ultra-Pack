@@ -1,0 +1,31 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Frostbite",
+			"red",
+			[
+				212,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": ""
+}

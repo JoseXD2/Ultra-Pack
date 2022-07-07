@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mario5",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"emem",
+		""
+	],
+	"songs": [
+		[
+			"Power-Down",
+			"MX",
+			[
+				91,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

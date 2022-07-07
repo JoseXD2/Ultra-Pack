@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mario4",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"wariom",
+		""
+	],
+	"songs": [
+		[
+			"Apparition",
+			"wario",
+			[
+				255,
+				215,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

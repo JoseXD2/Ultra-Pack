@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Haha! That was fun!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah! it sure was!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait a sec"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "is that my....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bamad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ph-phone?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "No! lol why would u think that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bamad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IT IS!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bamad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OHHH BF YOUR GONNA PAY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bamad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Only if you knew what dave would do to me if he found out, you would understand"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "hmmm kk"
+		}
+	]
+}

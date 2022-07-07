@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mario3",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"betam",
+		""
+	],
+	"songs": [
+		[
+			"Alone",
+			"beta",
+			[
+				0,
+				100,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

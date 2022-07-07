@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ALEXIA.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ATTENTE ECRASE0000" x="5" y="5" width="371" height="757" frameX="0" frameY="-3" frameWidth="373" frameHeight="761"/>
+	<SubTexture name="BAS ECRASE0000" x="386" y="5" width="384" height="655" frameX="-3" frameY="-1" frameWidth="390" frameHeight="656"/>
+	<SubTexture name="DROITE ECRASE0000" x="780" y="5" width="484" height="624" frameX="-4" frameY="-1" frameWidth="488" frameHeight="625"/>
+	<SubTexture name="GAUCHE ECRASE0000" x="1274" y="5" width="435" height="639" frameX="0" frameY="-1" frameWidth="435" frameHeight="640"/>
+	<SubTexture name="HAUT ECRASE0000" x="780" y="654" width="490" height="697" frameX="-2" frameY="0" frameWidth="492" frameHeight="697"/>
+</TextureAtlas>
+optimized by nt846

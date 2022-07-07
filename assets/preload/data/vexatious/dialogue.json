@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "aghhh damnit i left my phone here",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "part was lit doe",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "hmmmmmm now where is my pho-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "UH!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "wh- what was that?!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "oh....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "its just a phone",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "OMG!! is this my phone!?!?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "damnit!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "huh...whas goin on out here",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bambi"
+		},
+		{
+			"expression": "talk",
+			"text": "oh hi bf!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bambihappy"
+		},
+		{
+			"expression": "confused",
+			"text": "hehehey        heh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "whas wrong?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bambi"
+		},
+		{
+			"expression": "confused",
+			"text": "nothin....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "huh ok then..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bambi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "by the way, have you seen my phone out here? i left it at the party last night...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "sorry...nah"
+		},
+		{
+			"expression": "confused",
+			"text": "heyy uh.... mind if we rap while im here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "um sure      i guess",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bambihappy"
+		},
+		{
+			"expression": "excited",
+			"text": "Bet! Less go!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

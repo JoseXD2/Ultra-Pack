@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				790,
+				840
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "monika idle"
+		},
+		{
+			"offsets": [
+				788,
+				843
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "monika left"
+		},
+		{
+			"offsets": [
+				790,
+				840
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "monika down"
+		},
+		{
+			"offsets": [
+				790,
+				841
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "monika up"
+		},
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISS Sonic down"
+		},
+		{
+			"offsets": [
+				-29,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISS Sonic up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				14
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISS Sonic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS Sonic right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "GAME OVER"
+		},
+		{
+			"offsets": [
+				-20,
+				-14
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GAME OVER loop"
+		},
+		{
+			"offsets": [
+				-27,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "GAME OVER enter"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				840
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "monika right",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monika",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monika icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		137,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

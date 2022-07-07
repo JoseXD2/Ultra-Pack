@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lost_Silver_Menu.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Silver Idle0000" x="0" y="0" width="387" height="579"/>
+	<SubTexture name="M Silver Idle0001" x="0" y="0" width="387" height="579"/>
+	<SubTexture name="M Silver Idle0002" x="429" y="0" width="387" height="579"/>
+	<SubTexture name="M Silver Idle0003" x="429" y="0" width="387" height="579"/>
+	<SubTexture name="M Silver Idle0004" x="858" y="0" width="387" height="579"/>
+	<SubTexture name="M Silver Idle0005" x="858" y="0" width="387" height="579"/>
+	<SubTexture name="M Silver Idle0006" x="1287" y="0" width="387" height="579"/>
+	<SubTexture name="M Silver Idle0007" x="1287" y="0" width="387" height="579"/>
+	<SubTexture name="M Silver Spawn Full0000" x="0" y="621" width="387" height="578"/>
+	<SubTexture name="M Silver Spawn Full0001" x="429" y="621" width="387" height="578"/>
+	<SubTexture name="M Silver Spawn Full0002" x="858" y="621" width="387" height="578"/>
+	<SubTexture name="M Silver Spawn Full0003" x="858" y="621" width="387" height="578"/>
+	<SubTexture name="M Silver Spawn Full0004" x="1287" y="621" width="387" height="578"/>
+	<SubTexture name="M Silver Spawn Full0005" x="1287" y="621" width="387" height="578"/>
+	<SubTexture name="M Silver Spawn Full0006" x="0" y="1241" width="387" height="578"/>
+	<SubTexture name="M Silver Spawn Full0007" x="429" y="1241" width="387" height="578"/>
+	<SubTexture name="M Silver Spawn Full0008" x="858" y="1241" width="387" height="578"/>
+	<SubTexture name="M Silver Spawn Full0009" x="1287" y="1241" width="387" height="578"/>
+</TextureAtlas>

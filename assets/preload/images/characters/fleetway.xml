@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="fleetway.png" width="1377" height="1206">
+  <SubTexture name="Fleet up3" x="0" y="0"  width="281.5" height="313.5" frameX="-126" frameY="-81" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet up2" x="0" y="313.5"  width="279.5" height="311.5" frameX="-127" frameY="-83" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet up1" x="0" y="625"  width="274" height="310.5" frameX="-127.5" frameY="-84" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet up0" x="274" y="625"  width="274" height="309" frameX="-128.5" frameY="-85.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle05" x="279.5" y="313.5"  width="271" height="305.5" frameX="-130.5" frameY="-89" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle04" x="281.5" y="0"  width="269.5" height="301" frameX="-131" frameY="-93.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle03" x="548" y="619"  width="269.5" height="299" frameX="-131" frameY="-95.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle02" x="550.5" y="301"  width="268.5" height="298.5" frameX="-131" frameY="-96" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle01" x="551" y="0"  width="269" height="298" frameX="-130.5" frameY="-96.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle00" x="820" y="0"  width="267" height="296.5" frameX="-131" frameY="-98" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet right2" x="1087" y="0"  width="289.5" height="293" frameX="-131" frameY="-102" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet right1" x="1087" y="293"  width="288.5" height="292.5" frameX="-131" frameY="-102.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet left2" x="819" y="585.5"  width="273.5" height="291.5" frameX="-90" frameY="-103" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet right0" x="817.5" y="877"  width="286.5" height="291" frameX="-131.5" frameY="-103.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet left0" x="1092.5" y="585.5"  width="269" height="289.5" frameX="-92.5" frameY="-105" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet left1" x="1104" y="875"  width="271.5" height="289.5" frameX="-91.5" frameY="-105" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet down2" x="0" y="935.5"  width="274.5" height="270.5" frameX="-115" frameY="-123.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet down1" x="274.5" y="934"  width="272.5" height="270" frameX="-115.5" frameY="-124.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet down0" x="548" y="918"  width="269.5" height="269" frameX="-116" frameY="-125.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet down4" x="548" y="918"  width="269.5" height="269" frameX="-116" frameY="-125.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet down3" x="274.5" y="934"  width="272.5" height="270" frameX="-115.5" frameY="-124.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle10" x="820" y="0"  width="267" height="296.5" frameX="-131" frameY="-98" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle09" x="551" y="0"  width="269" height="298" frameX="-130.5" frameY="-96.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle08" x="550.5" y="301"  width="268.5" height="298.5" frameX="-131" frameY="-96" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle07" x="548" y="619"  width="269.5" height="299" frameX="-131" frameY="-95.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet idle06" x="281.5" y="0"  width="269.5" height="301" frameX="-131" frameY="-93.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet left4" x="1092.5" y="585.5"  width="269" height="289.5" frameX="-92.5" frameY="-105" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet left3" x="1104" y="875"  width="271.5" height="289.5" frameX="-91.5" frameY="-105" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet right4" x="817.5" y="877"  width="286.5" height="291" frameX="-131.5" frameY="-103.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet right3" x="1087" y="293"  width="288.5" height="292.5" frameX="-131" frameY="-102.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet up6" x="274" y="625"  width="274" height="309" frameX="-128.5" frameY="-85.5" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet up5" x="0" y="625"  width="274" height="310.5" frameX="-127.5" frameY="-84" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="Fleet up4" x="0" y="313.5"  width="279.5" height="311.5" frameX="-127" frameY="-83" frameWidth="450" frameHeight="450"/>
+</TextureAtlas>

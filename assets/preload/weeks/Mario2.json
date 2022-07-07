@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mario2",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"luigihm",
+		""
+	],
+	"songs": [
+		[
+			"I-Hate-you",
+			"luigiH",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

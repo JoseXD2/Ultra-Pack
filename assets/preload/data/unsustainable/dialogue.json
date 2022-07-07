@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "angy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IM INSANELY MAD!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uh-oh!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bambi you dont have to do this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "angy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU BROKE MY PHONE!!!! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i know! im sorry"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ples forgive meh!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "angy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO!!!! TOO LATE!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "angy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "PREPARE TO DIE!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "oh shilladoodle here we go again"
+		}
+	]
+}

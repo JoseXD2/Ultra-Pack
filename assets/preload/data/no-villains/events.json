@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "sonicbackground",
+		"player1": "bfTroll",
+		"player2": "sonic",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"no-villains",
+						"3"
+					]
+				]
+			],
+			[
+				63300,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic_mad"
+					]
+				]
+			],
+			[
+				65700,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic_mad"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic_forced"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfTroll",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No-Villains"
+	}
+}

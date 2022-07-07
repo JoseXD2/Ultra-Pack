@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "them",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/them",
+	"position": [
+		-370,
+		360
+	],
+	"healthicon": "kirbo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		142,
+		206
+	],
+	"camera_position": [
+		0,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

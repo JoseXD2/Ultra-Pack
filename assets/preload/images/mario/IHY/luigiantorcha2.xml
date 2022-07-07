@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="luigiantorcha2.png"><SubTexture name="luigiantorcha20000" x="91" y="0" width="93" height="166" frameX="-22" frameY="-25" frameWidth="133" frameHeight="191" />
+<SubTexture name="luigiantorcha20001" x="91" y="0" width="93" height="166" frameX="-20" frameY="-24" frameWidth="133" frameHeight="191" />
+<SubTexture name="luigiantorcha20002" x="271" y="0" width="87" height="161" frameX="-28" frameY="-30" frameWidth="133" frameHeight="191" />
+<SubTexture name="luigiantorcha20003" x="271" y="0" width="87" height="161" frameX="-27" frameY="-30" frameWidth="133" frameHeight="191" />
+<SubTexture name="luigiantorcha20004" x="184" y="0" width="87" height="165" frameX="-29" frameY="-26" frameWidth="133" frameHeight="191" />
+<SubTexture name="luigiantorcha20005" x="184" y="0" width="87" height="165" frameX="-29" frameY="-24" frameWidth="133" frameHeight="191" />
+<SubTexture name="luigiantorcha20006" x="0" y="0" width="91" height="169" frameX="-23" frameY="-22" frameWidth="133" frameHeight="191" />
+<SubTexture name="luigiantorcha20007" x="0" y="0" width="91" height="169" frameX="-16" frameY="-20" frameWidth="133" frameHeight="191" />
+</TextureAtlas>

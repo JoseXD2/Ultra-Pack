@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Fernan_IDLE"
+		},
+		{
+			"offsets": [
+				-49,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Fernan_LEFT"
+		},
+		{
+			"offsets": [
+				-50,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Fernan_DOWN"
+		},
+		{
+			"offsets": [
+				-16,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Fernan_UP"
+		},
+		{
+			"offsets": [
+				-70,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Fernan_RIGHT"
+		},
+		{
+			"offsets": [
+				170,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Fernan_HAHA"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FernanElcrack",
+	"position": [
+		60,
+		130
+	],
+	"healthicon": "fernan",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		234,
+		51
+	],
+	"camera_position": [
+		-120,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

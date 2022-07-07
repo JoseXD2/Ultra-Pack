@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cancer_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cancer_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cancer_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cancer_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cancer_idle0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cancer",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cancer",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		65,
+		142
+	],
+	"camera_position": [
+		-80,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

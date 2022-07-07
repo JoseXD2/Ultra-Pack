@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Sussus toogus easy",
+			"crewmate",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lights down easy",
+			"greenimpostor",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Reactor easy",
+			"greenimpostor",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Ejected easy",
+			"parasite",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "miraeasy",
+	"difficulties": "Easy",
+	"weekCharacters": [
+		"black",
+		"impostor3",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

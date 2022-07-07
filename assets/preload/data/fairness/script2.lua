@@ -1,0 +1,10 @@
+function onSongStart()
+	noteTweenX("NoteMove1", 4, 600, 90.3, cubeInOut)
+    noteTweenX("NoteMove2", 5, 680, 90.3, cubeInOut)
+    noteTweenX("NoteMove3", 6, 1000, 90.3, cubeInOut)
+    noteTweenX("NoteMove4", 7, 1100, 90.3, cubeInOut)
+    noteTweenY("NoteMove1", 4, 100, 3.3, cubeInOut)
+    noteTweenY("NoteMove2", 5, 100, 3.3, cubeInOut)
+    noteTweenY("NoteMove3", 6, 10, 3.3, cubeInOut)
+    noteTweenY("NoteMove4", 7, 0, 3.3, cubeInOut)
+end

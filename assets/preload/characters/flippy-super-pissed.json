@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico Note Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "SCREAM note"
+		},
+		{
+			"offsets": [
+				31,
+				21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "SCREAM up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Psycho-Fliqpy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "flippy-super-pissed",
+	"flip_x": true,
+	"healthbar_colors": [
+		60,
+		135,
+		0
+	],
+	"camera_position": [
+		-130,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

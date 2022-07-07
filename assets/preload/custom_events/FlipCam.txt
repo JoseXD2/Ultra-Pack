@@ -1,0 +1,4 @@
+Flips camGame or camHUD.
+
+Value 1: type "camgame" or "camhud"
+Value 2: type "up" or "down"

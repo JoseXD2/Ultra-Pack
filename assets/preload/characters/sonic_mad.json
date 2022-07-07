@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				47,
+				56
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				27,
+				44
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				64
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				58
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				39,
+				56
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle angyy",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic_mad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonic-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		135,
+		255
+	],
+	"camera_position": [
+		10,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

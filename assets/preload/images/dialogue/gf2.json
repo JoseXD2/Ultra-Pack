@@ -1,0 +1,128 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				80,
+				-70
+			],
+			"idle_offsets": [
+				79,
+				-71
+			],
+			"loop_name": "BF LOOP",
+			"idle_name": "BF0"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "BF EXCITED LOOP",
+			"idle_name": "BF EXCITED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF PISSED LOOP",
+			"idle_name": "BF PISSED0"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF SHOCK LOOP",
+			"idle_name": "BF SHOCK0"
+		},
+		{
+			"loop_name": "girlfreind angry",
+			"idle_offsets": [
+				80,
+				-90
+			],
+			"idle_name": "girlfreind angry0000",
+			"anim": "mad",
+			"loop_offsets": [
+				80,
+				-90
+			]
+		},
+		{
+			"loop_name": "girlfriend :raised_eyeborw",
+			"idle_offsets": [
+				80,
+				-80
+			],
+			"idle_name": "girlfriend :raised_eyeborw:0000",
+			"anim": "re",
+			"loop_offsets": [
+				80,
+				-79
+			]
+		},
+		{
+			"loop_name": "girlfriend happy",
+			"idle_offsets": [
+				30,
+				-50
+			],
+			"idle_name": "girlfriend happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				30,
+				-50
+			]
+		},
+		{
+			"loop_name": "girlfriend concern",
+			"idle_offsets": [
+				0,
+				-50
+			],
+			"idle_name": "girlfriend concern0000",
+			"anim": "concern",
+			"loop_offsets": [
+				0,
+				-50
+			]
+		},
+		{
+			"loop_name": "girlfriend neutral",
+			"idle_offsets": [
+				0,
+				-50
+			],
+			"idle_name": "girlfriend neutral0000",
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				-50
+			]
+		}
+	],
+	"image": "gf2_Dialogue"
+}

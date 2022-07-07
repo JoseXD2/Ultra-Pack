@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Foxy.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Foxy0000" x="0" y="0" width="2180" height="1410"/>
+	<SubTexture name="Foxy0001" x="0" y="0" width="2180" height="1410"/>
+	<SubTexture name="Foxy0002" x="0" y="1410" width="2125" height="1281" frameX="-53" frameY="-40" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0003" x="0" y="1410" width="2125" height="1281" frameX="-53" frameY="-40" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0004" x="0" y="2691" width="2029" height="1085" frameX="-131" frameY="-100" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0005" x="0" y="2691" width="2029" height="1085" frameX="-131" frameY="-100" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0006" x="0" y="2691" width="2029" height="1085" frameX="-134" frameY="-103" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0007" x="0" y="2691" width="2029" height="1085" frameX="-134" frameY="-103" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0008" x="0" y="2691" width="2029" height="1085" frameX="-134" frameY="-103" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0009" x="0" y="2691" width="2029" height="1085" frameX="-134" frameY="-103" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0010" x="0" y="2691" width="2029" height="1085" frameX="-134" frameY="-103" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0011" x="0" y="2691" width="2029" height="1085" frameX="-134" frameY="-103" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0012" x="0" y="2691" width="2029" height="1085" frameX="-134" frameY="-103" frameWidth="2180" frameHeight="1410"/>
+	<SubTexture name="Foxy0013" x="0" y="2691" width="2029" height="1085" frameX="-134" frameY="-103" frameWidth="2180" frameHeight="1410"/>
+</TextureAtlas>

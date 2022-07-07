@@ -1,0 +1,26 @@
+{
+	"storyName": "RACE traitors!!!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mario6",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Race-Traitors",
+			"race",
+			[
+				255,
+				40,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"mariorm",
+		""
+	],
+	"weekName": "Week 1"
+}

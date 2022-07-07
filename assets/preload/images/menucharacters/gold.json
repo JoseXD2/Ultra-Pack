@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Silver Idle",
+	"image": "Lost_Silver_Menu",
+	"position": [
+		76,
+		110
+	],
+	"scale": 0.65,
+	"confirm_anim": "M Silver Spawn Full"
+}

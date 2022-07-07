@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["The Murderer", "sans-dmg", [77, 79, 95]],
+		["Red Megalovania", "sans-dmg", [77, 79, 95]],
+		["Drowning", "sans-dmg", [77, 79, 95]],
+		["Psychotic Breakdown", "sans", [77, 79, 95]],
+		["D.I.E", "sans", [77, 79, 95]],
+		["Anthropophobia", "sans-win", [77, 79, 95]]
+	],
+
+	"weekCharacters": [
+		"sans",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"difficulties": "Bad Time",
+	"weekBefore": "none",
+	"weekName": "week1sans",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

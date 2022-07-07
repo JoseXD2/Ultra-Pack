@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "momi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "momi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "momi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "momi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "momi down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "idle-alt",
+			"fps": 20,
+			"name": "momi alt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "ah",
+			"fps": 24,
+			"name": "momi ah",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "chu",
+			"fps": 24,
+			"name": "momi chu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "charge chu",
+			"fps": 24,
+			"name": "momi charge chu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "charge ah",
+			"indices": [],
+			"name": "momi charge ah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/momi_assets",
+	"position": [
+		70,
+		-20
+	],
+	"healthicon": "momi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		215,
+		175
+	],
+	"camera_position": [
+		-100,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

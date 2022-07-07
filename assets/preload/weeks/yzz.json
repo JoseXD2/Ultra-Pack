@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"car",
+			"car",
+			[
+				66,
+				173,
+				55
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "zzz",
+	"weekName": "zzz",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

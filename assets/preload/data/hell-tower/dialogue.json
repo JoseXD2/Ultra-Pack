@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "OK OK!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "here! take the money!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yo! Thanks!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "expunghappy"
+		},
+		{
+			"expression": "talk",
+			"text": "Now I wont have to go insane anymore!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "expunghappy"
+		},
+		{
+			"expression": "talk",
+			"text": "coolswag!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "expunghappy"
+		},
+		{
+			"expression": "confused",
+			"text": "yeah yeahh its fine..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "just please never do that again.....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "no promises!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "expunghappy"
+		},
+		{
+			"expression": "shocked",
+			"text": "....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "yeah! anyway, i gotta bounce... I'll see you dudes later.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "expunghappy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cya expunged!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wow bf, i dont know how i can thank you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "it was no problemo really..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "although a favor would be nice...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how about..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "you watch me play this hardest song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambihappy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this should be fun, good luck!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "thanks.....ill need that luck..."
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Baldi",
+	"position": [
+		110,
+		200
+	],
+	"scale": 0.45,
+	"idle_anim": "M idle",
+	"confirm_anim": "M idle"
+}

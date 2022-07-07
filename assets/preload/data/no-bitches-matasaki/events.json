@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "lolbackground",
+		"player1": "bfTroll",
+		"player2": "dripsonic",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"no-bitches-matasaki",
+						"3"
+					]
+				]
+			],
+			[
+				63600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dripsonic_mad"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dripsonic"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dripsonic_forced"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dripsonic_mad"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dripsonic_forced"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dripsonic_forced"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfTroll",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No-Bitches-Matasaki"
+	}
+}

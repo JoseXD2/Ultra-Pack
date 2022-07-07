@@ -1,0 +1,35 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mario",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"marioexem",
+		""
+	],
+	"songs": [
+		[
+			"Its a me",
+			"marioex",
+			[
+				191,
+				0,
+				15
+			]
+		],
+		[
+			"Golden Land",
+			"mario-land",
+			[
+				151,
+				135,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

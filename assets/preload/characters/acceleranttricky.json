@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				200
+			],
+			"fps": 28,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tiky singup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				139
+			],
+			"fps": 28,
+			"anim": "idle",
+			"indices": [],
+			"name": "tiky idle"
+		},
+		{
+			"offsets": [
+				148,
+				166
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tiky left"
+		},
+		{
+			"offsets": [
+				109,
+				158
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tiky down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				205
+			],
+			"fps": 28,
+			"anim": "scream",
+			"indices": [],
+			"name": "tiky up-alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				274,
+				549
+			],
+			"fps": 28,
+			"anim": "land",
+			"indices": [],
+			"name": "tiky land"
+		},
+		{
+			"offsets": [
+				-7,
+				53
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "wait",
+			"indices": [],
+			"name": "tiky holup"
+		},
+		{
+			"offsets": [
+				182,
+				112
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tiky right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/acceleranttricky",
+	"position": [
+		225,
+		44
+	],
+	"healthicon": "trickymask",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		75,
+		40
+	],
+	"camera_position": [
+		-230,
+		-430
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

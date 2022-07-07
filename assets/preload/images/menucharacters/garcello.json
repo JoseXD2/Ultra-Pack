@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "garcello idle",
+	"position": [
+		25,
+		34
+	],
+	"scale": 0.9,
+	"image": "neo_Garcello"
+}

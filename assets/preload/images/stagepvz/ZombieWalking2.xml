@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="ZOMBIE SPRITE EXAMPLES.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Zombie chantin 0000" x="0" y="0" width="463" height="646" frameX="-52" frameY="-45" frameWidth="529" frameHeight="692" />
+	<SubTexture name="Zombie boppin0000" x="0" y="0" width="326" height="629" frameX="0" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0001" x="0" y="1258" width="315" height="629" frameX="-13" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0002" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0003" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0004" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0005" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0006" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0007" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0008" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0009" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0010" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0011" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0012" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0013" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0014" x="0" y="0" width="326" height="629" frameX="0" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0015" x="0" y="1258" width="315" height="629" frameX="-13" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0016" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0017" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0018" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0019" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0020" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0021" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0022" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0023" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0024" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0025" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0026" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0027" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0028" x="0" y="0" width="326" height="629" frameX="0" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0029" x="0" y="1258" width="315" height="629" frameX="-13" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0030" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0031" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0032" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0033" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0034" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0035" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0036" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0037" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0038" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0039" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0040" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0041" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0042" x="0" y="0" width="326" height="629" frameX="0" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0043" x="0" y="1258" width="315" height="629" frameX="-13" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0044" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0045" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0046" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0047" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0048" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0049" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0050" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0051" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0052" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0053" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0054" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0055" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0056" x="0" y="0" width="326" height="629" frameX="0" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0057" x="0" y="1258" width="315" height="629" frameX="-13" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0058" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0059" x="0" y="629" width="317" height="629" frameX="-20" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0060" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0061" x="317" y="629" width="298" height="629" frameX="-28" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0062" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0063" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0064" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0065" x="326" y="0" width="298" height="629" frameX="-29" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0066" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0067" x="615" y="629" width="296" height="629" frameX="-30" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0068" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0069" x="315" y="1258" width="300" height="629" frameX="-26" frameY="0" frameWidth="337" frameHeight="629"/>
+	<SubTexture name="Zombie boppin0070" x="0" y="0" width="326" height="629" frameX="0" frameY="0" frameWidth="337" frameHeight="629"/>
+</TextureAtlas>

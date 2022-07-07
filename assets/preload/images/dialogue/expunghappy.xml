@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="expunghappy.png"><SubTexture name="talke0000" x="0" y="0" width="555" height="652" frameX="-5" frameY="-117" frameWidth="616" frameHeight="769" />
+<SubTexture name="talky0000" x="555" y="0" width="505" height="640" frameX="-21" frameY="0" frameWidth="560" frameHeight="641" />
+</TextureAtlas>

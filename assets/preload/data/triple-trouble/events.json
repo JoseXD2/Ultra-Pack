@@ -1,0 +1,424 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "exe-stage",
+		"player1": "bf-ddlc",
+		"player2": "Sayori",
+		"player3": null,
+		"events": [
+			[
+				106438.356164384,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					]
+				]
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Drain",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"1",
+						"Monika"
+					],
+					[
+						"Drain",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-ddlc2"
+					],
+					[
+						"Change Character",
+						"2",
+						"ddlcbg2"
+					]
+				]
+			],
+			[
+				132534.246575343,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Drain",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"Natsuki"
+					],
+					[
+						"Change Character",
+						"2",
+						"ddlcbg1"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-ddlc"
+					]
+				]
+			],
+			[
+				237842.465753425,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"1",
+						"Monika"
+					],
+					[
+						"Change Character",
+						"2",
+						"ddlcbg2"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-ddlc2"
+					],
+					[
+						"Drain",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				290445.205479452,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"1",
+						"Yuri"
+					],
+					[
+						"Change Character",
+						"2",
+						"ddlcbg1"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-ddlc"
+					],
+					[
+						"Drain",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				296019.145073445,
+				[
+					[
+						"Play Animation",
+						"laugh1",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				296199.867965011,
+				[
+					[
+						"Play Animation",
+						"laugh1",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				296380.590856577,
+				[
+					[
+						"Play Animation",
+						"laugh2",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.09",
+						""
+					]
+				]
+			],
+			[
+				296561.313748144,
+				[
+					[
+						"Play Animation",
+						"laugh2",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				296742.03663971,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				307585.410133686,
+				[
+					[
+						"Play Animation",
+						"laugh1",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				307766.133025252,
+				[
+					[
+						"Play Animation",
+						"laugh1",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				307946.855916818,
+				[
+					[
+						"Play Animation",
+						"laugh2",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.09",
+						""
+					]
+				]
+			],
+			[
+				308127.578808384,
+				[
+					[
+						"Play Animation",
+						"laugh2",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				308308.301699951,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				400115.530615613,
+				[
+					[
+						"Play Animation",
+						"laugh1",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				400296.253507179,
+				[
+					[
+						"Play Animation",
+						"laugh1",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				400476.976398745,
+				[
+					[
+						"Play Animation",
+						"laugh2",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.09",
+						""
+					]
+				]
+			],
+			[
+				400657.699290311,
+				[
+					[
+						"Play Animation",
+						"laugh2",
+						"Dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				400838.422181878,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				406169.747483082,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"1",
+						"Monika"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-ddlc2"
+					],
+					[
+						"Drain",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"ddlcbg2"
+					]
+				]
+			],
+			[
+				487585.410133684,
+				[
+					[
+						"Screen Shake",
+						"15, 0.005",
+						"15, 0.005"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "ddlcbg1",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "triple-trouble"
+	}
+}

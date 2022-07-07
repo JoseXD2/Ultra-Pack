@@ -1,0 +1,839 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stageshadow",
+		"player1": "bfTroll",
+		"player2": "shadow",
+		"player3": null,
+		"events": [
+			[
+				83.3333333333333,
+				[
+					[
+						"Image Flash",
+						"warning",
+						"3"
+					]
+				]
+			],
+			[
+				4750,
+				[
+					[
+						"Image Flash",
+						"die-batsards",
+						"3"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				60666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.034",
+						"0.06"
+					]
+				]
+			],
+			[
+				61000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.06"
+					]
+				]
+			],
+			[
+				63333.3333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.034",
+						"0.06"
+					]
+				]
+			],
+			[
+				63333.3333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.034",
+						"0.06"
+					]
+				]
+			],
+			[
+				63666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.06"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.034",
+						"0.06"
+					]
+				]
+			],
+			[
+				66333.3333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.06"
+					]
+				]
+			],
+			[
+				68666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.034",
+						"0.06"
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.06"
+					]
+				]
+			],
+			[
+				85000,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				85083.3333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				89916.6666666666,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				143333.333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"shadowCrazy"
+					]
+				]
+			],
+			[
+				143416.666666667,
+				[
+					[
+						"Play Animation",
+						"die yep",
+						"dad"
+					]
+				]
+			],
+			[
+				143666.666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				146000,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				146083.333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				146083.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				146333.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				146416.666666667,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				148000,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				148083.333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				148250,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				148333.333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				148666.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				148750,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				149000,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				149083.333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				151333.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				151416.666666667,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				151666.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				151750,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				152750,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				152833.333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				153083.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				153166.666666667,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				153500,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				153583.333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				153833.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				153833.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				153916.666666667,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				154083.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				154083.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				154166.666666667,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				154250,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				154333.333333333,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				]
+			],
+			[
+				165333.333333333,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"BF"
+					]
+				]
+			],
+			[
+				165333.333333333,
+				[
+					[
+						"Play Animation",
+						"die yep",
+						"BF"
+					]
+				]
+			],
+			[
+				165333.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				165333.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				165333.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				165583.333333333,
+				[
+					[
+						"Play Animation",
+						"die yep",
+						"BF"
+					]
+				]
+			],
+			[
+				165750,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				165750,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				165916.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166000,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166000,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166083.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166083.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166166.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166166.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166333.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166333.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166416.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166500,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166500,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166583.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166666.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166666.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166750,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166750,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166833.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166833.333333333,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166916.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166916.666666667,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				167000,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				167000,
+				[
+					[
+						"Play Animation",
+						"yep shoot",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfTroll",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Die-Batsards"
+	}
+}

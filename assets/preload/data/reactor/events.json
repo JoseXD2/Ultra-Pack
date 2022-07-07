@@ -1,0 +1,839 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "reactor",
+		"player1": "bfr",
+		"player2": "impostorr",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				3840,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				7680,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				11520,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				15360,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				17280,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				21120,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				23040,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				24960,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				26880,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				30240,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				30480,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				30720,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				30780,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				30840,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"500"
+					]
+				]
+			],
+			[
+				31680,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				32640,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				34560,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				35520,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				36480,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				37440,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				39360,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				40320,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				41280,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				42240,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				44160,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				45120,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				46080,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				46180,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"300"
+					]
+				]
+			],
+			[
+				76520,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				76620,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"500"
+					]
+				]
+			],
+			[
+				91920,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				91920,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"300"
+					]
+				]
+			],
+			[
+				107520,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				109440,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				111360,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				113280,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				114240,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				114240,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				114720,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				115260,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				115320,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"500"
+					]
+				]
+			],
+			[
+				116160,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				117120,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				118080,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				119040,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				120960,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				121920,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				122880,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				123840,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				125760,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				126720,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				127680,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				128640,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				130560,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				131520,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				132480,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				133440,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				135360,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				136320,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				137280,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				138240,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				140160,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				141120,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				142080,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				143040,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				144960,
+				[
+					[
+						"Image Flash",
+						"flash",
+						"0.005"
+					]
+				]
+			],
+			[
+				145824,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				145860,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"500"
+					]
+				]
+			],
+			[
+				145920,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfr",
+		"bpm": 250,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Reactor"
+	}
+}

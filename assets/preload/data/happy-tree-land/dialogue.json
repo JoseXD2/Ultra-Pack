@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ugh, shit, how are you supposed to be so good at this?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "talk",
+			"text": "I swear that when you lose, you will be the first to die along with those at the bottom.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		},
+		{
+			"expression": "talk",
+			"text": "... beeeep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "SHUT UP!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fliqpy"
+		}
+	]
+}

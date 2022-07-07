@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				393
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Whitty idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				260
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Whitty Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				502
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Whitty Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				79,
+				325
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "whitty sing note right"
+		},
+		{
+			"offsets": [
+				165,
+				403
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Whitty Sing Note LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Don Ramon",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Don Ramon",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-150,
+		-520
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

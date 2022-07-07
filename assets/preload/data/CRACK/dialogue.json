@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "WTF pero si es Bf de Fnf",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fernanfloo"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Una sorpresa tenerte por aqui amiguito",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fernanfloo"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "una batalla de rap, esta bien Chorizo!",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "fernanfloo"
+		}
+	]
+}

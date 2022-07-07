@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="unfairnessPortrait.png"><SubTexture name="bambi unfairness portrait0000" x="0" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="580" frameHeight="270" />
+<SubTexture name="bambi unfairness portrait0001" x="0" y="535" width="252" height="262" frameX="-27" frameY="-8" frameWidth="580" frameHeight="270" />
+<SubTexture name="bambi unfairness portrait0002" x="480" y="0" width="365" height="265" frameX="-50" frameY="-5" frameWidth="580" frameHeight="270" />
+<SubTexture name="bambi unfairness portrait0003" x="0" y="270" width="365" height="265" frameX="-75" frameY="-5" frameWidth="580" frameHeight="270" />
+<SubTexture name="bambi unfairness portrait0004" x="365" y="270" width="365" height="265" frameX="-100" frameY="-5" frameWidth="580" frameHeight="270" />
+</TextureAtlas>

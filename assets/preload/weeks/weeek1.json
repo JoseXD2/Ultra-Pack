@@ -1,0 +1,49 @@
+{
+	"storyName": "",
+	"difficulties": "pussy,hard,hell",
+	"hideFreeplay": false,
+	"weekBackground": "hypno",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"Hyp",
+		""
+	],
+	"songs": [
+		[
+			"Safety-Lullaby",
+			"hypno",
+			[
+				215,
+				175,
+				55
+			]
+		],
+		[
+			"Left-Unchecked",
+			"hypno2",
+			[
+				215,
+				175,
+				55
+			]
+		],
+		[
+			"Lost-Cause",
+			"hypno2",
+			[
+				215,
+				175,
+				55
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}

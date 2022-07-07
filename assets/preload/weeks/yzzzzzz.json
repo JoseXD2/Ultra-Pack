@@ -1,0 +1,31 @@
+{
+	"storyName": "dave again!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "space",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Composure",
+			"davey",
+			[
+				106,
+				0,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"dave",
+		"bf",
+		"gf"
+	],
+	"weekName": "dave"
+}
